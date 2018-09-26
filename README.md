@@ -8,6 +8,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
+* [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
 
 ## Blogs, News, Subreddits (Text Periodicals)
@@ -40,13 +41,15 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 
 ## Courses
-* [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116: Introduction to Computer Security
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python Scripting)
+* [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
+* [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
+* [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 
-## Downloadable tools
-* [Envizon](https://github.com/evait-security/envizon): the network visualization tool
-* [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics &mdash; Elasticsearch, Logstash, and Kibana
+## Motivational
+* [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 
 ## Online tools
 * [CVE List](https://cve.mitre.org/)
@@ -54,14 +57,15 @@ This folder holds articles, links, and scripts useful for network defense.
 * [sploitus.com](https://sploitus.com/): an exploit search engine
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
 
-## Other useful repositories
+## Repositories
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
 * [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
 
-## Talks
-* [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+## Software
+* [Envizon](https://github.com/evait-security/envizon): the network visualization tool
+* [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 
 ## Tutorials
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
@@ -75,5 +79,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Videos and (Video) Playlists
 * [Active Directory](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ)
+* [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
+* [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
 
