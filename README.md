@@ -44,10 +44,12 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Courses
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python Scripting)
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
+* [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
+* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477) (Windows Server 2008)
 
 ## Motivational
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
