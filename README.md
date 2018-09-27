@@ -55,10 +55,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477) (Windows Server 2008)
 
+# Guides
+* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+
 ## Motivational
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 
 ## Online tools
+* [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
