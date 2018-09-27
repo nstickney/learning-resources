@@ -5,9 +5,11 @@
 This folder holds articles, links, and scripts useful for network defense.
 
 ## Articles
+* [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 * [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
+* [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
@@ -24,6 +26,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Pwned Subreddit](https://www.reddit.com/r/pwned/)
 * [SANS Reading Room](https://www.sans.org/reading-room/)
 * [Schneier On Security](https://www.schneier.com/)
+* [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
 
 ## Channels and Podcasts (Audio Periodicals)
@@ -56,7 +59,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 
 ## Online tools
-* [CVE List](https://cve.mitre.org/)
+* [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
+* [CyberChef](https://gchq.github.io/CyberChef/): translate strings
+* [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [sploitus.com](https://sploitus.com/): an exploit search engine
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
@@ -70,6 +75,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Software
 * [Envizon](https://github.com/evait-security/envizon): the network visualization tool
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
+* [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
 
 ## Tutorials
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
@@ -77,6 +83,11 @@ This folder holds articles, links, and scripts useful for network defense.
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Essential Linux Skills with CentOS7](https://www.rayheffer.com/essential-linux-skills-with-centos-7-managing-services-with-systemd/) and [Building a Secure WordPress server with LAMP on CentOS 7 and SELinux](https://www.rayheffer.com/building-secure-wordpress-server-lamp-centos-7-selinux/) from Ray Heffer
 * [How to Protect SSH With Fail2Ban on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7)
+* [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+* [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
+* [Linux prevent unprivileged users from viewing `dmesg` command output](https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/)
+* [How HTTPS works](https://howhttps.works/)
+* [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 
 ## Wikis
 * [SANS Blue Team Wiki](https://wiki.sans.blue)
