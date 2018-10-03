@@ -42,7 +42,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Tradecraft Security Weekly](https://securityweekly.com/subscribe/)
 
 ## Cheatsheets
+* [Linux Performance](http://brendangregg.com/linuxperf.html)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Oh, sh*t, git!](https://ohshitgit.com/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 
 ## Courses
