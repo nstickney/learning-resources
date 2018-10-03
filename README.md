@@ -67,6 +67,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
+* [file.io](https://www.file.io/): ephemeral file sharing
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [sploitus.com](https://sploitus.com/): an exploit search engine
