@@ -48,6 +48,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 
 ## Courses
+* [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python Scripting)
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
@@ -58,7 +59,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477) (Windows Server 2008)
 
 # Guides
+* [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
+* [Center for Internet Security](https://www.cisecurity.org/)
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+* [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 
 ## Motivational
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
@@ -80,23 +84,28 @@ This folder holds articles, links, and scripts useful for network defense.
 	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
 
 ## Software
-* [Envizon](https://github.com/evait-security/envizon): the network visualization tool
+* [Envizon](https://github.com/evait-security/envizon): The network visualization tool
+* [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
+* [Threatcare Breach and Attack Simulation](https://www.threatcare.com/threatcare-releases-free-breach-and-attack-simulation-solution)
 
 ## Tutorials
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
 * [DiG HOWTO: How to use `dig` to query DNS name servers](https://www.madboa.com/geek/dig/)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Essential Linux Skills with CentOS7](https://www.rayheffer.com/essential-linux-skills-with-centos-7-managing-services-with-systemd/) and [Building a Secure WordPress server with LAMP on CentOS 7 and SELinux](https://www.rayheffer.com/building-secure-wordpress-server-lamp-centos-7-selinux/) from Ray Heffer
+* [Linuxize](https://linuxize.com/)
+* [Digital Ocean](https://www.digitalocean.com/community/tutorials)
 * [How to Protect SSH With Fail2Ban on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7)
-* [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 * [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
 * [Linux prevent unprivileged users from viewing `dmesg` command output](https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/)
 * [How HTTPS works](https://howhttps.works/)
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 
 ## Wikis
+* [ATT&CK](https://attack.mitre.org/wiki/Main_Page)
 * [SANS Blue Team Wiki](https://wiki.sans.blue)
 
 ## Videos and (Video) Playlists
