@@ -103,7 +103,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [How HTTPS works](https://howhttps.works/)
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
-* [Tutorial on common hacks] (https://www.hacksplaining.com/)
+* [Tutorial on common hacks](https://www.hacksplaining.com/)
 
 ## Wikis
 * [ATT&CK](https://attack.mitre.org/wiki/Main_Page)
