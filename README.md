@@ -104,6 +104,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
+* [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 
 ## Wikis
 * [ATT&CK](https://attack.mitre.org/wiki/Main_Page)
