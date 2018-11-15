@@ -6,8 +6,11 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Articles
 * [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
+* [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
+* [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 * [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
+* [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
@@ -19,6 +22,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Ars Technica Security](https://arstechnica.com/tag/security/)
 * [Dark Reading](https://www.darkreading.com/)
 * [Internet Storm Center Diary](http://isc.sans.edu/diary.html)
+* [Incrememt: Security](https://increment.com/security/)
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [NetSec Subreddit](https://www.reddit.com/r/netsec/)
 	* [Ask NetSec Subreddit](https://www.reddit.com/r/AskNetsec/)
@@ -29,13 +33,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
 
-## Channels and Podcasts (Audio Periodicals)
+## Channels and Podcasts (Audio/Visual Periodicals)
 * [7 Minute Security](https://7ms.us/episodeguide/)
 * [CyberWire Daily Podcast](https://www.thecyberwire.com/podcasts/daily-podcast.html)
 * [Darknet Diaries](https://darknetdiaries.com/)
 * [Defensive Security](http://defensivesecurity.org/)
 * [Enterprise Security Weekly](https://securityweekly.com/subscribe/)
 * [Internet Storm Center Daily Information Security Podcast](https://isc.sans.edu/podcast.html)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Malicious.life](https://malicious.life/)
 * [Recorded Future: Inside Threat Intelligence](https://www.recordedfuture.com/resources/podcasts/)
 * [Steve Gibson: Security Now](https://twit.tv/shows/security-now)
@@ -52,22 +57,30 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python Scripting)
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
+* [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
+* [Microsoft Virtual Academy](https://mva.microsoft.com)
+	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477) (Windows Server 2008)
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
-* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477) (Windows Server 2008)
 
 # Guides
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
+* [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
+* [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+* [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+* [Wizard Zines](https://wizardzines.com)
 
 ## Motivational
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+* [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 
 ## Online tools
+* [AS Report](https://isc.sans.edu/asreport.html)
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
@@ -79,6 +92,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Repositories
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
 * [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
@@ -88,6 +102,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
+* [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
 * [Threatcare Breach and Attack Simulation](https://www.threatcare.com/threatcare-releases-free-breach-and-attack-simulation-solution)
 
 ## Tutorials
@@ -103,6 +118,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [How HTTPS works](https://howhttps.works/)
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+* [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 
