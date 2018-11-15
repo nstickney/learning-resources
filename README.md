@@ -54,12 +54,13 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
-* [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python Scripting)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/): Python scripting
+* [Clark Center](https://www.clark.center/home): Effective cybersecurity curriculum at your fingertips
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
 * [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
-	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477) (Windows Server 2008)
+	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
