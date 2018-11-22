@@ -92,6 +92,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
 
 ## Repositories
+* [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
@@ -101,6 +102,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Software
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
+* [Shodan snippets](https://snippets.shodan.io/)
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
 * [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
@@ -114,6 +116,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Linuxize](https://linuxize.com/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)
 * [How to Protect SSH With Fail2Ban on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7)
+* [Top 20 OpenSSH Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 * [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
 * [Linux prevent unprivileged users from viewing `dmesg` command output](https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/)
 * [How HTTPS works](https://howhttps.works/)
@@ -122,6 +125,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
+* [The Easiest Metasploit Guide You'll Ever Read](https://a.ndronic.us/guides/metasploit/html/index.html)
 
 ## Wikis
 * [ATT&CK](https://attack.mitre.org/wiki/Main_Page)
