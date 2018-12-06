@@ -9,6 +9,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 * [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
+* [Evergreen skills for those who work with servers](https://blog.ssdnodes.com/blog/roadmap-evergreen-skills-servers/)
 * [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 * [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
@@ -33,6 +34,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
 
+## Challenges (Hacking and Programming)
+* [All-Army CyberStakes](https://acictf.com/)
+* [Exercism](https://exercism.io)
+* [HackTheBox](https://hackthebox.eu)
+* [Project Euler](https://projecteuler.net/)
+* [RunCode](https://runcode.ninja)
+* [TryHackMe](https://tryhackme.com/)
+
 ## Channels and Podcasts (Audio/Visual Periodicals)
 * [7 Minute Security](https://7ms.us/episodeguide/)
 * [CyberWire Daily Podcast](https://www.thecyberwire.com/podcasts/daily-podcast.html)
@@ -52,8 +61,12 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Oh, sh*t, git!](https://ohshitgit.com/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 
+## Checklists
+* [Windows Security From The Ground Up](https://decentsecurity.com/securing-your-computer/)
+
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
+* [Amazon's Machine Learning University](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/): Python scripting
 * [Clark Center](https://www.clark.center/home): Effective cybersecurity curriculum at your fingertips
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
@@ -71,6 +84,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+* [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
@@ -78,13 +92,16 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Motivational
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+* [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
+* [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 
 ## Online tools
 * [AS Report](https://isc.sans.edu/asreport.html)
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
+* [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 * [file.io](https://www.file.io/): ephemeral file sharing
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
@@ -102,11 +119,13 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Software
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
+* [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
 * [Shodan snippets](https://snippets.shodan.io/)
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
 * [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
 * [Threatcare Breach and Attack Simulation](https://www.threatcare.com/threatcare-releases-free-breach-and-attack-simulation-solution)
+* [Tsurugi](https://tsurugi-linux.org/index.php): DFIR-focused Linux distribution
 
 ## Tutorials
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
