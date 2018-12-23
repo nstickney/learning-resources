@@ -92,6 +92,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Wizard Zines](https://wizardzines.com)
 
 ## Motivational
+* [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
