@@ -83,6 +83,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
+* [Ethical OS](https://ethicalos.org)
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
 * [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
