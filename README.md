@@ -8,12 +8,15 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
 * [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 * [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
+* [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 * [Evergreen skills for those who work with servers](https://blog.ssdnodes.com/blog/roadmap-evergreen-skills-servers/)
 * [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
+* [InfoSec](https://danielmiessler.com/infosec/)
 * [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+* [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
@@ -83,8 +86,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
+* [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 * [Ethical OS](https://ethicalos.org)
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+* [The Programming Languages Zoo](http://plzoo.andrej.com/)
 * [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
@@ -94,6 +99,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Motivational
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+* [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
@@ -106,9 +112,15 @@ This folder holds articles, links, and scripts useful for network defense.
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 * [file.io](https://www.file.io/): ephemeral file sharing
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
+* [Mamont's open FTP Index](https://www.mmnt.net)
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [sploitus.com](https://sploitus.com/): an exploit search engine
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
+
+## Personal Security and Privacy
+* [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
+* [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
+* [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 
 ## Repositories
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
