@@ -41,9 +41,11 @@ This folder holds articles, links, and scripts useful for network defense.
 * [All-Army CyberStakes](https://acictf.com/)
 * [Exercism](https://exercism.io)
 * [HackTheBox](https://hackthebox.eu)
+* [Over The Wire](http://overthewire.org/)
 * [Project Euler](https://projecteuler.net/)
 * [RunCode](https://runcode.ninja)
 * [TryHackMe](https://tryhackme.com/)
+* [Under The Wire](http://www.underthewire.tech/)
 
 ## Channels and Podcasts (Audio/Visual Periodicals)
 * [7 Minute Security](https://7ms.us/episodeguide/)
@@ -65,12 +67,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 
 ## Checklists
+* [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 * [Windows Security From The Ground Up](https://decentsecurity.com/securing-your-computer/)
 
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
 * [Amazon's Machine Learning University](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/): Python scripting
+* [Brilliant.org](https://brilliant.org): Math and science done right
 * [Clark Center](https://www.clark.center/home): Effective cybersecurity curriculum at your fingertips
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
@@ -78,6 +82,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
+* [Open Security Training](http://opensecuritytraining.info/)
 * [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
@@ -128,8 +133,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
-* [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
+* [National Security Agency](https://github.com/NationalSecurityAgency)
+	* Also [NSA Cybersecurity](https://github.com/nsacyber)
 
 ## Software
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
@@ -141,6 +147,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
 * [Threatcare Breach and Attack Simulation](https://www.threatcare.com/threatcare-releases-free-breach-and-attack-simulation-solution)
 * [Tsurugi](https://tsurugi-linux.org/index.php): DFIR-focused Linux distribution
+
+## Taxonomy (Terms and Definitions):
+* [MITRE ATT&CK](https://attack.mitre.org/)
+* [Lockheed-Martin Cyber Killchain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 ## Tutorials
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
@@ -157,6 +167,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+* [Tips for an Information Security Analyst/Pentester career - Ep. 33 - Metasploit intro](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-ep-33-metasploit-intro-mattia-campagnano-13-years-experience-akron-oh)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 * [The Easiest Metasploit Guide You'll Ever Read](https://a.ndronic.us/guides/metasploit/html/index.html)
@@ -167,6 +178,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Videos and (Video) Playlists
 * [Active Directory](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ)
+* [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
 * [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
 * [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
