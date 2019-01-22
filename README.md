@@ -78,6 +78,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
+* [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
