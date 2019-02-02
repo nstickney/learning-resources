@@ -15,6 +15,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [InfoSec](https://danielmiessler.com/infosec/)
 * [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
+* [Stop Lighting Sh*t Up](https://secure.lol/stop-lighting-shit-up/)
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 * [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
@@ -64,6 +65,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Linux Performance](http://brendangregg.com/linuxperf.html)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Oh, sh*t, git!](https://ohshitgit.com/)
+* [Rico's Cheatsheets](https://devhints.io/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 
 ## Checklists
@@ -79,6 +81,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
 * [Immerisve Labs](https://dca.immersivelabs.online/)
+* [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
 * [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
@@ -124,9 +127,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [sploitus.com](https://sploitus.com/): an exploit search engine
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
 
+## Papers
+* [DFIR Review](http://dfrws.org/dfir-review)
+* [pfSense Best Practices](https://www.netgate.com/resources/technical-papers/pfsense-best-practices-part-1.html)
+
 ## Personal Security and Privacy
 * [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
 * [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
+* [Security Checklist](https://securitycheckli.st/)
 * [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 
 ## Repositories
@@ -139,6 +147,7 @@ This folder holds articles, links, and scripts useful for network defense.
 	* Also [NSA Cybersecurity](https://github.com/nsacyber)
 
 ## Software
+* [Buscador OSINT VM](https://inteltechniques.com/buscador/)
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 * [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
@@ -154,6 +163,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Lockheed-Martin Cyber Killchain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 ## Tutorials
+* [Daniel Miessler's `tcpdump` Tutorial](https://danielmiessler.com/study/tcpdump/)
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
 * [DiG HOWTO: How to use `dig` to query DNS name servers](https://www.madboa.com/geek/dig/)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
@@ -182,5 +192,4 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
 * [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
-* [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
-
+* [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas) 
