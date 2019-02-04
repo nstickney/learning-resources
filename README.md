@@ -164,6 +164,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Tutorials
 * [Daniel Miessler's `tcpdump` Tutorial](https://danielmiessler.com/study/tcpdump/)
+* [Derek Wyatt's Vim Tutorials](http://derekwyatt.org/vim/tutorials/)
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
 * [DiG HOWTO: How to use `dig` to query DNS name servers](https://www.madboa.com/geek/dig/)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
