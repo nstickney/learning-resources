@@ -115,6 +115,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
+* [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 * [Wisdom from James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens)
