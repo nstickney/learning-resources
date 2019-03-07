@@ -117,6 +117,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
+* [Wisdom from James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens)
 
 ## Online tools
 * [AS Report](https://isc.sans.edu/asreport.html)
