@@ -92,6 +92,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 
+# Fun
+* [terminal.sexy](terminal.sexy): Design your terminal colorscheme
+
 # Guides
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
@@ -109,6 +112,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Motivational
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+* [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
@@ -117,6 +121,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Online tools
 * [AS Report](https://isc.sans.edu/asreport.html)
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
+* [crt.sh](crt.sh): Certificate Search
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
@@ -132,6 +137,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [pfSense Best Practices](https://www.netgate.com/resources/technical-papers/pfsense-best-practices-part-1.html)
 
 ## Personal Security and Privacy
+* [Device and Account Security Checklist 2.0](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
 * [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
 * [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
 * [Security Checklist](https://securitycheckli.st/)
@@ -141,10 +147,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
 	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
 * [National Security Agency](https://github.com/NationalSecurityAgency)
 	* Also [NSA Cybersecurity](https://github.com/nsacyber)
+* [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
 ## Software
 * [Buscador OSINT VM](https://inteltechniques.com/buscador/)
