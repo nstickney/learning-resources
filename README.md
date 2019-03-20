@@ -40,13 +40,16 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
+* [CSAW 365](https://365.csaw.io/)
 * [Exercism](https://exercism.io)
 * [HackTheBox](https://hackthebox.eu)
 * [Over The Wire](http://overthewire.org/)
+* [PicoCTF](https://picoctf.com/)
 * [Project Euler](https://projecteuler.net/)
 * [RunCode](https://runcode.ninja)
 * [TryHackMe](https://tryhackme.com/)
 * [Under The Wire](http://www.underthewire.tech/)
+* [We Chall](https://www.wechall.net/): Challenge site aggregator
 
 ## Channels and Podcasts (Audio/Visual Periodicals)
 * [7 Minute Security](https://7ms.us/episodeguide/)
