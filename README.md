@@ -107,7 +107,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
 * [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 * [Ethical OS](https://ethicalos.org)
+* [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+* [OSINT](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56): How to find information on anyone
 * [The Programming Languages Zoo](http://plzoo.andrej.com/)
 * [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
@@ -118,6 +120,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Motivational
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+* [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
@@ -154,6 +157,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Programming Advice
 * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
+* [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
 
 ## Repositories
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
