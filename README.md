@@ -21,6 +21,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
+* [What is DevOps?](https://theagileadmin.com/what-is-devops/)
 
 ## Blogs, News, Subreddits (Text Periodicals)
 * [Active Directory Security](https://adsecurity.org/)
@@ -37,6 +38,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Schneier On Security](https://www.schneier.com/)
 * [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
+* [TISIPHONE.NET](https://tisiphone.net/): Leslie Carhart, full-spectrum cyber-warrior princess
 
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
@@ -96,6 +98,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 
 # Fun
+* [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
 * [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 
 # Guides
@@ -148,6 +151,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Security Checklist](https://securitycheckli.st/)
 * [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 
+## Programming Advice
+* [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
+* [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
+
 ## Repositories
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
@@ -196,6 +203,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [Tips for an Information Security Analyst/Pentester career - Ep. 33 - Metasploit intro](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-ep-33-metasploit-intro-mattia-campagnano-13-years-experience-akron-oh)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
+* [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 * [The Easiest Metasploit Guide You'll Ever Read](https://a.ndronic.us/guides/metasploit/html/index.html)
 
