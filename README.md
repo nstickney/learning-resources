@@ -43,14 +43,32 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
 * [CSAW 365](https://365.csaw.io/)
+* [CTF365](https://ctf365.com/)
+* [CTFtime](https://ctftime.org/)
+* [EnigmaGroup](http://www.enigmagroup.org/)
 * [Exercism](https://exercism.io)
+* [Google Gruyere](http://google-gruyere.appspot.com/)
+* [Hack This Site](http://hackthissite.org/)
 * [HackTheBox](https://hackthebox.eu)
+* [HackThis](https://www.hackthis.co.uk/)
+* [HackXor](https://hackxor.net/)
+* [Hack.me](https://www.hack.me/)
+* [Hacking-Lab](https://www.hacking-lab.com/)
+* [Hellbound Hackers](https://www.hellboundhackers.org/)
+* [IO](http://io.netgarage.org/)
+* [Microcorruption](https://microcorruption.com/)
 * [Over The Wire](http://overthewire.org/)
 * [PicoCTF](https://picoctf.com/)
 * [Project Euler](https://projecteuler.net/)
+* [PWN0](https://pwn0.com/)
+* [Pwnable.kr](http://pwnable.kr/)
+* [Root Me](https://www.root-me.org/)
 * [RunCode](https://runcode.ninja)
+* [SmashTheStack](http://smashthestack.org/)
+* [Try2Hack](http://www.try2hack.nl/)
 * [TryHackMe](https://tryhackme.com/)
 * [Under The Wire](http://www.underthewire.tech/)
+* [W3Challs](https://w3challs.com/)
 * [We Chall](https://www.wechall.net/): Challenge site aggregator
 
 ## Channels and Podcasts (Audio/Visual Periodicals)
@@ -67,6 +85,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Tradecraft Security Weekly](https://securityweekly.com/subscribe/)
 
 ## Cheatsheets
+* [A linux-oriented binary anaylysis cheatsheet](https://www.matteomalvica.com/binary_analysis/)
 * [Linux Performance](http://brendangregg.com/linuxperf.html)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Oh, sh*t, git!](https://ohshitgit.com/)
@@ -76,6 +95,10 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Checklists
 * [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 * [Windows Security From The Ground Up](https://decentsecurity.com/securing-your-computer/)
+
+## Conferences
+* [Deconstruct](https://www.deconstructconf.com/)
+* [Hardwear.io](https://hardwear.io/)
 
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
@@ -109,6 +132,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Ethical OS](https://ethicalos.org)
 * [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+* [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) for anyone who knows a programming language
 * [OSINT](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56): How to find information on anyone
 * [The Programming Languages Zoo](http://plzoo.andrej.com/)
 * [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
@@ -118,8 +142,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Wizard Zines](https://wizardzines.com)
 
 ## Motivational
+* [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
+* [Codex Atlanticus](http://codex-atlanticus.it/)
 * [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [Model, document and share](https://lethain.com/model-document-share/)
@@ -156,6 +182,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Programming Advice
 * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
+* [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 * [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
 
@@ -175,6 +202,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Software
 * [Buscador OSINT VM](https://inteltechniques.com/buscador/)
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
+* [EvilVM](http://evilvm.ninja/pages/quickstart/)
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 * [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
 * [Shodan snippets](https://snippets.shodan.io/)
@@ -189,6 +217,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Lockheed-Martin Cyber Killchain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 ## Tutorials
+* [Debugging in Vim](https://www.dannyadam.com/blog/2019/05/debugging-in-vim/)
+* [git rebase in depth](https://git-rebase.io/)
+* [I Have a Binary, But Where Is Main?](https://medium.com/@squanderingtime/i-have-a-binary-but-where-is-main-721a7086dd2f)
 * [Daniel Miessler's `tcpdump` Tutorial](https://danielmiessler.com/study/tcpdump/)
 * [Derek Wyatt's Vim Tutorials](http://derekwyatt.org/vim/tutorials/)
 * [Linux and Unix `dig` Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
@@ -220,4 +251,11 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
 * [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
-* [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas) 
+* [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
+
+## Vulnerable Applications and Systems
+* [Bodgeit Store](https://github.com/psiinon/bodgeit)
+* [DVIA](http://damnvulnerableiosapp.com/)
+* [Hackademic](https://github.com/Hackademic/hackademic)
+* [Juice Shop](https://github.com/bkimminich/juice-shop)
+* [WebGoat](http://webappsecmovies.sourceforge.net/webgoat/)
