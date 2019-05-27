@@ -144,6 +144,8 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Motivational
 * [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
+* [Advice to a student poet from E.E. Cummings](https://cummingsatsilverlake.com/2015/06/22/advice-to-a-student-poet-from-e-e-cummings/)
+	> And so my advice to all young people... is: do something easy, like learning how to blow up the world &mdash; unless you're not only willing, but glad, to feel and work and fight till you die.
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 * [Codex Atlanticus](http://codex-atlanticus.it/)
 * [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
@@ -164,6 +166,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 * [file.io](https://www.file.io/): ephemeral file sharing
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
+* [Hunchly](https://hunch.ly/)
 * [Mamont's open FTP Index](https://www.mmnt.net)
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [sploitus.com](https://sploitus.com/): an exploit search engine
@@ -185,6 +188,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 * [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
+* [Why bother writing tests at all?](https://dave.cheney.net/2019/05/14/why-bother-writing-tests-at-all)
 
 ## Repositories
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
@@ -236,6 +240,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+* [Tightly integrating Git into Vim](https://jakobgm.com/posts/vim/git-integration/)
 * [Tips for an Information Security Analyst/Pentester career - Ep. 33 - Metasploit intro](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-ep-33-metasploit-intro-mattia-campagnano-13-years-experience-akron-oh)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
 * [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
