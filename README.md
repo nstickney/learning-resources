@@ -21,6 +21,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
+* [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 * [What is DevOps?](https://theagileadmin.com/what-is-devops/)
 
 ## Blogs, News, Subreddits (Text Periodicals)
@@ -39,6 +40,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
 * [TISIPHONE.NET](https://tisiphone.net/): Leslie Carhart, full-spectrum cyber-warrior princess
+
+## Books
+* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
@@ -102,6 +106,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
+* [9 Free Training Courses to Learn Linux Online](https://itsfoss.com/free-linux-training-courses/)
 * [Amazon's Machine Learning University](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/): Python scripting
 * [Brilliant.org](https://brilliant.org): Math and science done right
@@ -181,9 +186,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
 * [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
 * [Security Checklist](https://securitycheckli.st/)
+* [Semiphemeral](https://github.com/micahflee/semiphemeral): Automatically delete your old tweets, except for the ones you want to keep
 * [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 
 ## Programming Advice
+* [Destroy All Software](https://www.destroyallsoftware.com/)
+	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
+* [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+* [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
 * [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
@@ -197,9 +207,11 @@ This folder holds articles, links, and scripts useful for network defense.
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
 * [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
+* [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials)
 	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
 * [National Security Agency](https://github.com/NationalSecurityAgency)
 	* Also [NSA Cybersecurity](https://github.com/nsacyber)
+* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) 
 * [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
