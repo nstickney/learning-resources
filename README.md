@@ -49,6 +49,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [CSAW 365](https://365.csaw.io/)
 * [CTF365](https://ctf365.com/)
 * [CTFtime](https://ctftime.org/)
+* [DFIR.Training](https://www.dfir.training/)
 * [EnigmaGroup](http://www.enigmagroup.org/)
 * [Exercism](https://exercism.io)
 * [Google Gruyere](http://google-gruyere.appspot.com/)
@@ -125,11 +126,11 @@ This folder holds articles, links, and scripts useful for network defense.
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 
-# Fun
+## Fun
 * [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
 * [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 
-# Guides
+## Guides
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
@@ -146,6 +147,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 * [Wizard Zines](https://wizardzines.com)
 
+## Infographics
+* [Guillaume Infosec](https://twitter.com/Guillaume_Lpl/status/1136304330921992192)
+
 ## Motivational
 * [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
@@ -157,6 +161,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
+* [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
 * [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
@@ -165,7 +170,6 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Online tools
 * [AS Report](https://isc.sans.edu/asreport.html)
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
-* [crt.sh](crt.sh): Certificate Search
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
@@ -174,8 +178,12 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Hunchly](https://hunch.ly/)
 * [Mamont's open FTP Index](https://www.mmnt.net)
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
-* [sploitus.com](https://sploitus.com/): an exploit search engine
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
+### Search Engines
+* [censys.io](https://censys.io/): find internet-exposed devices
+* [crt.sh](crt.sh): Certificate Search
+* [shodan.io](https://censys.io/): find internet-exposed devices
+* [sploitus.com](https://sploitus.com/): an exploit search engine
 
 ## Papers
 * [DFIR Review](http://dfrws.org/dfir-review)
@@ -194,6 +202,7 @@ This folder holds articles, links, and scripts useful for network defense.
 	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
 * [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
+* [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
 * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
 * [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
