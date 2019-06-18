@@ -177,13 +177,20 @@ This folder holds articles, links, and scripts useful for network defense.
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
 * [Hunchly](https://hunch.ly/)
 * [Mamont's open FTP Index](https://www.mmnt.net)
+* [OSINT Framework](https://osintframework.com/)
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
+
 ### Search Engines
-* [censys.io](https://censys.io/): find internet-exposed devices
+* [censys.io](https://censys.io/): Find internet-exposed devices
 * [crt.sh](crt.sh): Certificate Search
-* [shodan.io](https://censys.io/): find internet-exposed devices
-* [sploitus.com](https://sploitus.com/): an exploit search engine
+* [Greynoise Visualizer](https://viz.greynoise.io/table)
+* [hunter.io](https://hunter.io/): Emails by domain
+* [Shodan](https://shodan.io/): Find internet-exposed devices
+* [Source Code Search Engine](https://publicwww.com/)
+* [sploitus.com](https://sploitus.com/): Exploit search engine
+* [Wigle](https://wigle.net/): Database of wireless networks
+* [ZoomEye](https://www.zoomeye.org/): [Cybersecurity Search Engine](http://www.pentest.guru/index.php/2016/01/13/zoomeye-the-valid-iot-search-engine-you-never-heard-of/)
 
 ## Papers
 * [DFIR Review](http://dfrws.org/dfir-review)
@@ -266,6 +273,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
 * [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
 * [The Easiest Metasploit Guide You'll Ever Read](https://a.ndronic.us/guides/metasploit/html/index.html)
 
 ## Wikis
