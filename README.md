@@ -137,6 +137,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 * [Ethical OS](https://ethicalos.org)
 * [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
+* [Learn X in Y Minutes](https://learnxinyminutes.com/): Scenic Programming Language Tours
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
 * [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) for anyone who knows a programming language
 * [OSINT](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56): How to find information on anyone
@@ -158,10 +159,11 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 * [Codex Atlanticus](http://codex-atlanticus.it/)
 * [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
+* [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
-* [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
+* [spaceprob.es](https://spaceprob.es/)
 * [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
@@ -235,7 +237,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Buscador OSINT VM](https://inteltechniques.com/buscador/)
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 * [EvilVM](http://evilvm.ninja/pages/quickstart/)
+* [LeakLooker](https://github.com/woj-ciech/LeakLooker): Find open databases with Shodan
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
+* [netsniff-ng](http://netsniff-ng.org/): Swiss army knife for your daily Linux network plumbing
 * [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
 * [Shodan snippets](https://snippets.shodan.io/)
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
