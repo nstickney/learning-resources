@@ -113,6 +113,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Brilliant.org](https://brilliant.org): Math and science done right
 * [Clark Center](https://www.clark.center/home): Effective cybersecurity curriculum at your fingertips
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
+* [From Nand to Tetris](https://www.nand2tetris.org/)
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
 * [Immerisve Labs](https://dca.immersivelabs.online/)
 * [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
@@ -270,6 +271,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Linux prevent unprivileged users from viewing `dmesg` command output](https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/)
 * [How HTTPS works](https://howhttps.works/)
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
+* [Real Python Tutorials](https://realpython.com/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [Tightly integrating Git into Vim](https://jakobgm.com/posts/vim/git-integration/)
