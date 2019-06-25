@@ -96,6 +96,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Oh, sh*t, git!](https://ohshitgit.com/)
 * [Rico's Cheatsheets](https://devhints.io/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
+* [Windows Security Event Logs](https://www.andreafortuna.org/2019/06/12/windows-security-event-logs-my-own-cheatsheet/)
 
 ## Checklists
 * [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
@@ -242,6 +243,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 * [netsniff-ng](http://netsniff-ng.org/): Swiss army knife for your daily Linux network plumbing
 * [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
+* [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng): Web reconnaissance framework
 * [Shodan snippets](https://snippets.shodan.io/)
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
