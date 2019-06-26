@@ -179,6 +179,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 * [file.io](https://www.file.io/): ephemeral file sharing
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
+* [JS Bin](https://jsbin.com/): JavaScript learning tool
 * [Hunchly](https://hunch.ly/)
 * [Mamont's open FTP Index](https://www.mmnt.net)
 * [OSINT Framework](https://osintframework.com/)
