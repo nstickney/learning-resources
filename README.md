@@ -210,6 +210,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 
 ## Programming Advice
+* [Crash-Only Software](https://lwn.net/Articles/191059/)
 * [Destroy All Software](https://www.destroyallsoftware.com/)
 	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
 * [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
