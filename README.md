@@ -11,7 +11,6 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 * [Evergreen skills for those who work with servers](https://blog.ssdnodes.com/blog/roadmap-evergreen-skills-servers/)
-* [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 * [InfoSec](https://danielmiessler.com/infosec/)
 * [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
@@ -42,6 +41,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [TISIPHONE.NET](https://tisiphone.net/): Leslie Carhart, full-spectrum cyber-warrior princess
 
 ## Books
+* [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 
 ## Challenges (Hacking and Programming)
@@ -150,6 +150,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 * [Wizard Zines](https://wizardzines.com)
 
+## Human skills
+* [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
+
 ## Infographics
 * [Guillaume Infosec](https://twitter.com/Guillaume_Lpl/status/1136304330921992192)
 
@@ -163,6 +166,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
 * [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
+* [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [spaceprob.es](https://spaceprob.es/)
@@ -185,6 +189,8 @@ This folder holds articles, links, and scripts useful for network defense.
 * [OSINT Framework](https://osintframework.com/)
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
+* [tilde.town](https://tilde.town/): a computer meant for sharing
+* [WebPageTest](http://webpagetest.org): website performance metrics
 
 ### Search Engines
 * [censys.io](https://censys.io/): Find internet-exposed devices
@@ -293,6 +299,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Videos and (Video) Playlists
 * [Active Directory](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ)
 * [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
+* [I'll Let Myself In: Tactics of Physical Pen Testers](https://youtu.be/rnmcRTnTNC8)
 * [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
 * [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
