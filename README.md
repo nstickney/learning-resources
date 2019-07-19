@@ -5,20 +5,23 @@
 This folder holds articles, links, and scripts useful for network defense.
 
 ## Articles
+* [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
+	* [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
 * [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
-* [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
 * [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
+* [Docker for Pentesters](https://blog.ropnop.com/docker-for-pentesters/)
 * [Evergreen skills for those who work with servers](https://blog.ssdnodes.com/blog/roadmap-evergreen-skills-servers/)
+* [Files (Dan Luu at DeconstructConf)](https://danluu.com/deconstruct-files/)
+* [How To Build And Run A SOC for Incident Response: A Collection of Resources](https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources)
 * [InfoSec](https://danielmiessler.com/infosec/)
+* [Introducing the InfoSec colour wheel&mdash;blending developers with red and blue security teams.](https://hackernoon.com/introducing-the-infosec-colour-wheel-blending-developers-with-red-and-blue-security-teams-6437c1a07700)
 * [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
-* [Stop Lighting Sh*t Up](https://secure.lol/stop-lighting-shit-up/)
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+* [Stop Lighting Sh*t Up](https://secure.lol/stop-lighting-shit-up/)
 * [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
-* [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
-* [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
 * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 * [What is DevOps?](https://theagileadmin.com/what-is-devops/)
@@ -43,16 +46,21 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Books
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+* [Quantum computing for the very curious](https://quantum.country/)
+* [Security Engineering &mdash; Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
+* [crackmes.one](https://crackmes.one/)
 * [CSAW 365](https://365.csaw.io/)
 * [CTF365](https://ctf365.com/)
 * [CTFtime](https://ctftime.org/)
 * [DFIR.Training](https://www.dfir.training/)
 * [EnigmaGroup](http://www.enigmagroup.org/)
 * [Exercism](https://exercism.io)
+* [Exploit Education](http://exploit.education/)
 * [Google Gruyere](http://google-gruyere.appspot.com/)
+* [Gophercises](https://gophercises.com)
 * [Hack This Site](http://hackthissite.org/)
 * [HackTheBox](https://hackthebox.eu)
 * [HackThis](https://www.hackthis.co.uk/)
@@ -96,11 +104,15 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Oh, sh*t, git!](https://ohshitgit.com/)
 * [Rico's Cheatsheets](https://devhints.io/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
+* [TechRepublic Cheat Sheets](https://www.techrepublic.com/topic/smart-persons-guides/)
 * [Windows Security Event Logs](https://www.andreafortuna.org/2019/06/12/windows-security-event-logs-my-own-cheatsheet/)
 
 ## Checklists
 * [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 * [Windows Security From The Ground Up](https://decentsecurity.com/securing-your-computer/)
+
+## Communities (Discord, Mastodon, RocketChat, Slack, etc)
+* [OSInt.team](https://osint.team/home)
 
 ## Conferences
 * [Deconstruct](https://www.deconstructconf.com/)
@@ -133,12 +145,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 
 ## Guides
+* [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
 * [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 * [Ethical OS](https://ethicalos.org)
 * [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
+* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 * [Learn X in Y Minutes](https://learnxinyminutes.com/): Scenic Programming Language Tours
 * [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
 * [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) for anyone who knows a programming language
@@ -146,17 +160,20 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Programming Languages Zoo](http://plzoo.andrej.com/)
 * [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
-* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+* [Sideways Dictionary](https://sidewaysdictionary.com/): Please explain ...
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 * [Wizard Zines](https://wizardzines.com)
 
 ## Human skills
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
+* [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits.](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
+* [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
 
 ## Infographics
 * [Guillaume Infosec](https://twitter.com/Guillaume_Lpl/status/1136304330921992192)
 
 ## Motivational
+* [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
 * [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 * [Advice to a student poet from E.E. Cummings](https://cummingsatsilverlake.com/2015/06/22/advice-to-a-student-poet-from-e-e-cummings/)
@@ -167,6 +184,8 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
 * [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 * [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
+* [Infosec Income Questionnaire (Responses)](https://docs.google.com/spreadsheets/d/19SDu4bjcLYFOr0fw3UGh-KeJp6IU1ApchVaTzZqhBuc/)
+* [Levels.fyi](https://www.levels.fyi/): Compare career levels across companies
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [spaceprob.es](https://spaceprob.es/)
@@ -185,12 +204,61 @@ This folder holds articles, links, and scripts useful for network defense.
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
 * [JS Bin](https://jsbin.com/): JavaScript learning tool
 * [Hunchly](https://hunch.ly/)
+* [IM Observatory](https://xmpp.net/): Testing the security of the Jabber/XMPP network since '13.
+* [MailTester.com](http://mailtester.com/): Check validity of an email address
+* [Mail-Tester](https://www.mail-tester.com): Test the spammy-ness of email newsletters
 * [Mamont's open FTP Index](https://www.mmnt.net)
 * [OSINT Framework](https://osintframework.com/)
 * [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
 * [tilde.town](https://tilde.town/): a computer meant for sharing
 * [WebPageTest](http://webpagetest.org): website performance metrics
+
+## Papers
+* [DFIR Review](http://dfrws.org/dfir-review)
+* [pfSense Best Practices](https://www.netgate.com/resources/technical-papers/pfsense-best-practices-part-1.html)
+
+## Personal Security and Privacy
+* [Device and Account Security Checklist 2.0](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
+* [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/)
+* [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
+* [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
+* [Security Checklist](https://securitycheckli.st/)
+* [Semiphemeral](https://github.com/micahflee/semiphemeral): Automatically delete your old tweets, except for the ones you want to keep
+* [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
+
+## Programming Advice
+* [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
+* [Crash-Only Software](https://lwn.net/Articles/191059/)
+* [Destroy All Software](https://www.destroyallsoftware.com/)
+	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
+* [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+* [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
+* [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
+* [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
+* [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
+* [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
+* [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
+* [Why bother writing tests at all?](https://dave.cheney.net/2019/05/14/why-bother-writing-tests-at-all)
+* [YAGNI, yes. Skimping, no. Technical Debt? Not even.](https://ronjeffries.com/articles/019-01ff/iter-yagni-skimp/)
+
+## Repositories
+* [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
+* [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's ATT&CK framework
+* [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+* [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
+* [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials)
+	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
+* [Logging Made Easy](https://github.com/ukncsc/lme)
+	* from the [United Kingdom National Cyber Security Center](https://github.com/ukncsc)
+* [National Security Agency](https://github.com/NationalSecurityAgency)
+	* Also [NSA Cybersecurity](https://github.com/nsacyber)
+* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) 
+* [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
 ### Search Engines
 * [censys.io](https://censys.io/): Find internet-exposed devices
@@ -203,46 +271,6 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Wigle](https://wigle.net/): Database of wireless networks
 * [ZoomEye](https://www.zoomeye.org/): [Cybersecurity Search Engine](http://www.pentest.guru/index.php/2016/01/13/zoomeye-the-valid-iot-search-engine-you-never-heard-of/)
 
-## Papers
-* [DFIR Review](http://dfrws.org/dfir-review)
-* [pfSense Best Practices](https://www.netgate.com/resources/technical-papers/pfsense-best-practices-part-1.html)
-
-## Personal Security and Privacy
-* [Device and Account Security Checklist 2.0](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
-* [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
-* [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
-* [Security Checklist](https://securitycheckli.st/)
-* [Semiphemeral](https://github.com/micahflee/semiphemeral): Automatically delete your old tweets, except for the ones you want to keep
-* [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
-
-## Programming Advice
-* [Crash-Only Software](https://lwn.net/Articles/191059/)
-* [Destroy All Software](https://www.destroyallsoftware.com/)
-	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
-* [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
-* [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
-* [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
-* [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
-* [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
-* [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
-* [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
-* [Why bother writing tests at all?](https://dave.cheney.net/2019/05/14/why-bother-writing-tests-at-all)
-
-## Repositories
-* [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
-* [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
-* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
-* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-* [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
-* [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials)
-	* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
-* [National Security Agency](https://github.com/NationalSecurityAgency)
-	* Also [NSA Cybersecurity](https://github.com/nsacyber)
-* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) 
-* [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
-
 ## Software
 * [Buscador OSINT VM](https://inteltechniques.com/buscador/)
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
@@ -253,6 +281,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
 * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng): Web reconnaissance framework
 * [Shodan snippets](https://snippets.shodan.io/)
+* [Skiptracer](https://github.com/xillwillx/skiptracer): OSINT scraping framework
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
 * [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
@@ -275,6 +304,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Essential Linux Skills with CentOS7](https://www.rayheffer.com/essential-linux-skills-with-centos-7-managing-services-with-systemd/) and [Building a Secure WordPress server with LAMP on CentOS 7 and SELinux](https://www.rayheffer.com/building-secure-wordpress-server-lamp-centos-7-selinux/) from Ray Heffer
 * [Linuxize](https://linuxize.com/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)
+* [The General Problem](https://generalproblem.net/): Let's build a compiler!
 * [How to Protect SSH With Fail2Ban on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7)
 * [Top 20 OpenSSH Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 * [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
