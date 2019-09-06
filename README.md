@@ -11,15 +11,18 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 * [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
+* [Day-1 Skills That Cybersecurity Hiring Managers Are Looking For](https://danielmiessler.com/blog/day-1-skills-required-to-land-an-entry-level-cybersecurity-job/)
 * [Docker for Pentesters](https://blog.ropnop.com/docker-for-pentesters/)
 * [Evergreen skills for those who work with servers](https://blog.ssdnodes.com/blog/roadmap-evergreen-skills-servers/)
 * [Files (Dan Luu at DeconstructConf)](https://danluu.com/deconstruct-files/)
 * [How To Build And Run A SOC for Incident Response: A Collection of Resources](https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources)
 * [InfoSec](https://danielmiessler.com/infosec/)
 * [Introducing the InfoSec colour wheel&mdash;blending developers with red and blue security teams.](https://hackernoon.com/introducing-the-infosec-colour-wheel-blending-developers-with-red-and-blue-security-teams-6437c1a07700)
+* [Log Everything All The Time](http://highscalability.com/log-everything-all-time)
 * [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+* [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
 * [Stop Lighting Sh*t Up](https://secure.lol/stop-lighting-shit-up/)
 * [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
@@ -42,15 +45,19 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
 * [TISIPHONE.NET](https://tisiphone.net/): Leslie Carhart, full-spectrum cyber-warrior princess
+* [XPN InfoSec Blog](https://blog.xpnsec.com/)
 
-## Books
+## "Books" (well, they are sort of books)
+* [A Tour of Go](https://tour.golang.org/)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 * [Quantum computing for the very curious](https://quantum.country/)
 * [Security Engineering &mdash; Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html)
+* [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
+* [Analyst Unknown Cyber Range](https://aucr.io/)
 * [crackmes.one](https://crackmes.one/)
 * [CSAW 365](https://365.csaw.io/)
 * [CTF365](https://ctf365.com/)
@@ -108,6 +115,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Windows Security Event Logs](https://www.andreafortuna.org/2019/06/12/windows-security-event-logs-my-own-cheatsheet/)
 
 ## Checklists
+* [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 * [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 * [Windows Security From The Ground Up](https://decentsecurity.com/securing-your-computer/)
 
@@ -128,6 +136,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 * [From Nand to Tetris](https://www.nand2tetris.org/)
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
+* [How to learn to code for free at Stanford and make six figures in under 1 year](https://medium.com/the-mission/how-to-learn-to-code-for-free-at-stanford-and-make-six-figures-in-under-1-year-4bf95baf793b)
 * [Immerisve Labs](https://dca.immersivelabs.online/)
 * [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
 * [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
@@ -140,7 +149,12 @@ This folder holds articles, links, and scripts useful for network defense.
 * [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 * [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 
+## Exercises
+* [curl exercises](https://jvns.ca/blog/2019/08/27/curl-exercises/)
+* [git exercises](https://jvns.ca/blog/2019/08/30/git-exercises--navigate-a-repository/): navigate a repository
+
 ## Fun
+* [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
 * [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
 * [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 
@@ -148,6 +162,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
+* [Cryptographic Attacks](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/): A Guide for the Perplexed
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
 * [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 * [Ethical OS](https://ethicalos.org)
@@ -160,8 +175,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Programming Languages Zoo](http://plzoo.andrej.com/)
 * [A penetration tester’s guide to subdomain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
+* [Regex for Noobs (like me!)](https://www.janmeppe.com/blog/regex-for-noobs/): An Illustrated Guide
 * [Sideways Dictionary](https://sidewaysdictionary.com/): Please explain ...
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+* [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 * [Wizard Zines](https://wizardzines.com)
 
 ## Human skills
@@ -196,11 +213,14 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Online tools
 * [AS Report](https://isc.sans.edu/asreport.html)
+* [Binary Ninja Cloud](https://cloud.binary.ninja/)
+* [Botometer](https://botometer.iuni.iu.edu/)
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 * [file.io](https://www.file.io/): ephemeral file sharing
+* [GreyNoise Visualizer](https://viz.greynoise.io/)
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
 * [JS Bin](https://jsbin.com/): JavaScript learning tool
 * [Hunchly](https://hunch.ly/)
@@ -240,6 +260,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 * [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
 * [Why bother writing tests at all?](https://dave.cheney.net/2019/05/14/why-bother-writing-tests-at-all)
+* [Why do some developers at strong companies like Google consider Agile development to be nonsense?](http://qr.ae/QkWNo)
 * [YAGNI, yes. Skimping, no. Technical Debt? Not even.](https://ronjeffries.com/articles/019-01ff/iter-yagni-skimp/)
 
 ## Repositories
@@ -287,6 +308,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
 * [Threatcare Breach and Attack Simulation](https://www.threatcare.com/threatcare-releases-free-breach-and-attack-simulation-solution)
 * [Tsurugi](https://tsurugi-linux.org/index.php): DFIR-focused Linux distribution
+* [The ZMap Project](https://zmap.io/)
 
 ## Taxonomy (Terms and Definitions):
 * [MITRE ATT&CK](https://attack.mitre.org/)
@@ -302,6 +324,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [DiG HOWTO: How to use `dig` to query DNS name servers](https://www.madboa.com/geek/dig/)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Essential Linux Skills with CentOS7](https://www.rayheffer.com/essential-linux-skills-with-centos-7-managing-services-with-systemd/) and [Building a Secure WordPress server with LAMP on CentOS 7 and SELinux](https://www.rayheffer.com/building-secure-wordpress-server-lamp-centos-7-selinux/) from Ray Heffer
+* [Learn `vim` For the Last Time](https://danielmiessler.com/study/vim/): A Tutorial and Primer
 * [Linuxize](https://linuxize.com/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)
 * [The General Problem](https://generalproblem.net/): Let's build a compiler!
