@@ -8,6 +8,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
 	* [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 * [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
+* [Code Fearlessly](http://cam.ly/blog/2010/12/code-fearlessly/)
 * [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 * [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
