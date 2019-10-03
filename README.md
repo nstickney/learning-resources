@@ -157,6 +157,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Fun
 * [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
 * [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
+* [Hacker Typer](http://hackertyper.com/)
 * [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 
 ## Guides
@@ -333,6 +334,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Top 20 OpenSSH Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 * [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
 * [Linux prevent unprivileged users from viewing `dmesg` command output](https://www.cyberciti.biz/faq/how-to-prevent-unprivileged-users-from-viewing-dmesg-command-output-on-linux/)
+* [Ben Eater's Tutorials](https://eater.net/)
 * [How HTTPS works](https://howhttps.works/)
 * [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 * [Real Python Tutorials](https://realpython.com/)
