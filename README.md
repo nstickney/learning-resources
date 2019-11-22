@@ -13,6 +13,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 * [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 * [Day-1 Skills That Cybersecurity Hiring Managers Are Looking For](https://danielmiessler.com/blog/day-1-skills-required-to-land-an-entry-level-cybersecurity-job/)
+* [Defense at Scale](https://www.netmeister.org/blog/defense-at-scale.html)
 * [Docker for Pentesters](https://blog.ropnop.com/docker-for-pentesters/)
 * [Evergreen skills for those who work with servers](https://blog.ssdnodes.com/blog/roadmap-evergreen-skills-servers/)
 * [Files (Dan Luu at DeconstructConf)](https://danluu.com/deconstruct-files/)
@@ -24,7 +25,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 * [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
-* [Stop Lighting Sh*t Up](https://secure.lol/stop-lighting-shit-up/)
+* [Stop Lighting Shit Up](https://secure.lol/stop-lighting-shit-up/)
 * [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
 * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
@@ -55,6 +56,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Quantum computing for the very curious](https://quantum.country/)
 * [Security Engineering &mdash; Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
 ## Challenges (Hacking and Programming)
 * [All-Army CyberStakes](https://acictf.com/)
@@ -109,7 +111,8 @@ This folder holds articles, links, and scripts useful for network defense.
 * [A linux-oriented binary anaylysis cheatsheet](https://www.matteomalvica.com/binary_analysis/)
 * [Linux Performance](http://brendangregg.com/linuxperf.html)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Oh, sh*t, git!](https://ohshitgit.com/)
+* [Oh, shit, git!](https://ohshitgit.com/)
+* [One XSS cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
 * [Rico's Cheatsheets](https://devhints.io/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 * [TechRepublic Cheat Sheets](https://www.techrepublic.com/topic/smart-persons-guides/)
@@ -126,6 +129,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Conferences
 * [Deconstruct](https://www.deconstructconf.com/)
 * [Hardwear.io](https://hardwear.io/)
+* [Hacker Maps](http://hackermaps.org/)
 
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
@@ -162,6 +166,8 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Guides
 * [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
+* [[A]ndroid [A]pplication [P]entest [G]uide](https://nightowl131.github.io/AAPG/)
+* [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [Cryptographic Attacks](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/): A Guide for the Perplexed
@@ -180,6 +186,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Regex for Noobs (like me!)](https://www.janmeppe.com/blog/regex-for-noobs/): An Illustrated Guide
 * [Sideways Dictionary](https://sidewaysdictionary.com/): Please explain ...
 * [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+* [The Internet of Shit Guide](https://internetofshit.net/home)
 * [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 * [Wizard Zines](https://wizardzines.com)
 
@@ -302,7 +309,9 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 * [netsniff-ng](http://netsniff-ng.org/): Swiss army knife for your daily Linux network plumbing
 * [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
+* [Princeton IoT Inspector](https://iot-inspector.princeton.edu/)
 * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng): Web reconnaissance framework
+* [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 * [Shodan snippets](https://snippets.shodan.io/)
 * [Skiptracer](https://github.com/xillwillx/skiptracer): OSINT scraping framework
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
