@@ -51,6 +51,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## "Books" (well, they are sort of books)
 * [A Tour of Go](https://tour.golang.org/)
+* [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 * [Quantum computing for the very curious](https://quantum.country/)
@@ -130,6 +131,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Deconstruct](https://www.deconstructconf.com/)
 * [Hardwear.io](https://hardwear.io/)
 * [Hacker Maps](http://hackermaps.org/)
+* [Hackers On Planet Earth](https://hope.net)
 
 ## Courses
 * [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
@@ -215,6 +217,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Model, document and share](https://lethain.com/model-document-share/)
 * [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
 * [spaceprob.es](https://spaceprob.es/)
+* [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois)
 * [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
 * [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
@@ -242,6 +245,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SSL Labs](https://www.ssllabs.com/): test https configuration
 * [tilde.town](https://tilde.town/): a computer meant for sharing
 * [WebPageTest](http://webpagetest.org): website performance metrics
+* [Wigle.net](https://wigle.net/): All the networks. Found by Everyone.
 
 ## Papers
 * [DFIR Review](http://dfrws.org/dfir-review)
@@ -257,10 +261,12 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 
 ## Programming Advice
+* [The Codeless Code](http://thecodelesscode.com/)
 * [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
 * [Crash-Only Software](https://lwn.net/Articles/191059/)
 * [Destroy All Software](https://www.destroyallsoftware.com/)
 	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
+* [Eich's Law](https://calculist.blogspot.com/2010/02/eichs-law.html)
 * [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 * [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
@@ -268,8 +274,10 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 * [Software Structure](https://www.destroyallsoftware.com/compendium/software-structure?share_key=6fb5f711cae5a4e6) for anyone who knows a programming language
+* [The Perfect Programming Language](https://cygni.se/the-perfect-programming-language/)
 * [Why bother writing tests at all?](https://dave.cheney.net/2019/05/14/why-bother-writing-tests-at-all)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](http://qr.ae/QkWNo)
+* [Why Go and not Rust?](https://kristoff.it/blog/why-go-and-not-rust/)
 * [YAGNI, yes. Skimping, no. Technical Debt? Not even.](https://ronjeffries.com/articles/019-01ff/iter-yagni-skimp/)
 
 ## Repositories
@@ -328,6 +336,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Tutorials
 * [Debugging in Vim](https://www.dannyadam.com/blog/2019/05/debugging-in-vim/)
 * [git rebase in depth](https://git-rebase.io/)
+* [email = git = &lt;3](https://git-send-email.io/)
 * [I Have a Binary, But Where Is Main?](https://medium.com/@squanderingtime/i-have-a-binary-but-where-is-main-721a7086dd2f)
 * [Daniel Miessler's `tcpdump` Tutorial](https://danielmiessler.com/study/tcpdump/)
 * [Derek Wyatt's Vim Tutorials](http://derekwyatt.org/vim/tutorials/)
@@ -349,12 +358,14 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Real Python Tutorials](https://realpython.com/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+* [The Plain Text Project](https://plaintextproject.online/)
 * [Tightly integrating Git into Vim](https://jakobgm.com/posts/vim/git-integration/)
 * [Tips for an Information Security Analyst/Pentester career - Ep. 33 - Metasploit intro](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-ep-33-metasploit-intro-mattia-campagnano-13-years-experience-akron-oh)
 * [Tutorial on common hacks](https://www.hacksplaining.com/)
 * [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
+* [Writing in Plain Text: A Tutorial for the Non-Techy Writer](https://surfingedges.com/2014/10/28/writing-in-plain-text-a-tutorial-for-the-non-techy-writer/)
 * [The Easiest Metasploit Guide You'll Ever Read](https://a.ndronic.us/guides/metasploit/html/index.html)
 
 ## Wikis
