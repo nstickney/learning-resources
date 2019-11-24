@@ -159,6 +159,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Exercises
 * [curl exercises](https://jvns.ca/blog/2019/08/27/curl-exercises/)
 * [git exercises](https://jvns.ca/blog/2019/08/30/git-exercises--navigate-a-repository/): navigate a repository
+* [PentesterLab: Introduction to code review](https://pentesterlab.com/exercises/codereview/course)
 
 ## Fun
 * [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
