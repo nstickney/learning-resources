@@ -47,6 +47,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SecurityBytes](https://securitybytes.io)
 * [ThreatPost](https://threatpost.com/)
 * [TISIPHONE.NET](https://tisiphone.net/): Leslie Carhart, full-spectrum cyber-warrior princess
+* [Vimways](https://vimways.org/)
 * [XPN InfoSec Blog](https://blog.xpnsec.com/)
 
 ## "Books" (well, they are sort of books)
@@ -91,6 +92,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [SmashTheStack](http://smashthestack.org/)
 * [Try2Hack](http://www.try2hack.nl/)
 * [TryHackMe](https://tryhackme.com/)
+* [TwilioQuest](https://www.twilio.com/quest)
 * [Under The Wire](http://www.underthewire.tech/)
 * [W3Challs](https://w3challs.com/)
 * [We Chall](https://www.wechall.net/): Challenge site aggregator
@@ -173,6 +175,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 * [Center for Internet Security](https://www.cisecurity.org/)
+* [CTF Design Guidelines](https://bit.ly/ctf-design)
 * [Cryptographic Attacks](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/): A Guide for the Perplexed
 * [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
 * [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
@@ -196,10 +199,14 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Human skills
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 * [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits.](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
+* [How Focus Became More Important Than Intelligence](https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence)
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 * [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
+* [Please Learn to Write](https://randsinrepose.com/archives/please-learn-to-write/)
 
 ## Infographics
 * [Guillaume Infosec](https://twitter.com/Guillaume_Lpl/status/1136304330921992192)
+* [Occurrences of words in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#hack*,workaround*,todo,fixme,wrong)
 
 ## Motivational
 * [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
@@ -226,11 +233,13 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Online tools
 * [AS Report](https://isc.sans.edu/asreport.html)
+* [AutoDraw](https://www.autodraw.com/)
 * [Binary Ninja Cloud](https://cloud.binary.ninja/)
 * [Botometer](https://botometer.iuni.iu.edu/)
 * [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 * [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
+* [dark.fail](dark.fail): Is a darknet site online?
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 * [file.io](https://www.file.io/): ephemeral file sharing
 * [GreyNoise Visualizer](https://viz.greynoise.io/)
@@ -254,6 +263,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Personal Security and Privacy
 * [Device and Account Security Checklist 2.0](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
+* [Extreme Privacy: What It Takes to Disappear in America](https://inteltechniques.com/data/workbook.pdf)
 * [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/)
 * [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
 * [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
@@ -271,6 +281,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 * [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
+* [On Linux's Random Number Generation](https://research.nccgroup.com/2019/12/19/on-linuxs-random-number-generation/)
 * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html): Real world advice for writing maintainable Go programs
 * [SB Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
@@ -295,6 +306,7 @@ This folder holds articles, links, and scripts useful for network defense.
 	* from the [United Kingdom National Cyber Security Center](https://github.com/ukncsc)
 * [National Security Agency](https://github.com/NationalSecurityAgency)
 	* Also [NSA Cybersecurity](https://github.com/nsacyber)
+* [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) 
 * [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
@@ -311,6 +323,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [ZoomEye](https://www.zoomeye.org/): [Cybersecurity Search Engine](http://www.pentest.guru/index.php/2016/01/13/zoomeye-the-valid-iot-search-engine-you-never-heard-of/)
 
 ## Software
+* [Andriller](https://github.com/den4uk/andriller): collection of forensic tools for smartphones
 * [Buscador OSINT VM](https://inteltechniques.com/buscador/)
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 * [EvilVM](http://evilvm.ninja/pages/quickstart/)
@@ -345,6 +358,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [DiG HOWTO: How to use `dig` to query DNS name servers](https://www.madboa.com/geek/dig/)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Essential Linux Skills with CentOS7](https://www.rayheffer.com/essential-linux-skills-with-centos-7-managing-services-with-systemd/) and [Building a Secure WordPress server with LAMP on CentOS 7 and SELinux](https://www.rayheffer.com/building-secure-wordpress-server-lamp-centos-7-selinux/) from Ray Heffer
+* [FreeBSD Desktop](https://vermaden.wordpress.com/freebsd-desktop/)
 * [Learn `vim` For the Last Time](https://danielmiessler.com/study/vim/): A Tutorial and Primer
 * [Linuxize](https://linuxize.com/)
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)
@@ -362,7 +376,8 @@ This folder holds articles, links, and scripts useful for network defense.
 * [The Plain Text Project](https://plaintextproject.online/)
 * [Tightly integrating Git into Vim](https://jakobgm.com/posts/vim/git-integration/)
 * [Tips for an Information Security Analyst/Pentester career - Ep. 33 - Metasploit intro](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-ep-33-metasploit-intro-mattia-campagnano-13-years-experience-akron-oh)
-* [Tutorial on common hacks](https://www.hacksplaining.com/)
+* [Tutorials on common hacks](https://www.hacksplaining.com/)
+* [Using Wireshark: Exporting Objects from a Pcap](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/)
 * [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 * [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
@@ -375,6 +390,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Videos and (Video) Playlists
 * [Active Directory](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ)
+* [DEF CON Media Server](https://media.defcon.org/)
 * [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
 * [I'll Let Myself In: Tactics of Physical Pen Testers](https://youtu.be/rnmcRTnTNC8)
 * [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
