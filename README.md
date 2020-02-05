@@ -30,6 +30,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
 * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 * [What is DevOps?](https://theagileadmin.com/what-is-devops/)
+* [What is the Linux Auditing System (aka AuditD)?](https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/)
 
 ## Blogs, News, Subreddits (Text Periodicals)
 * [Active Directory Security](https://adsecurity.org/)
@@ -114,6 +115,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [A linux-oriented binary anaylysis cheatsheet](https://www.matteomalvica.com/binary_analysis/)
 * [Linux Performance](http://brendangregg.com/linuxperf.html)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Nmap](https://twitter.com/JenF3rr_/status/1213089296305065984)
 * [Oh, shit, git!](https://ohshitgit.com/)
 * [One XSS cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
 * [Rico's Cheatsheets](https://devhints.io/)
@@ -124,6 +126,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Checklists
 * [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 * [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+* [New Server Checklist](https://drewdevault.com/new-server.html)
 * [Windows Security From The Ground Up](https://decentsecurity.com/securing-your-computer/)
 
 ## Communities (Discord, Mastodon, RocketChat, Slack, etc)
@@ -143,6 +146,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Brilliant.org](https://brilliant.org): Math and science done right
 * [Clark Center](https://www.clark.center/home): Effective cybersecurity curriculum at your fingertips
 * [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
+* [E-learning by Tracy Parish](https://e-learning.zeef.com/tracy.parish)
 * [From Nand to Tetris](https://www.nand2tetris.org/)
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
 * [How to learn to code for free at Stanford and make six figures in under 1 year](https://medium.com/the-mission/how-to-learn-to-code-for-free-at-stanford-and-make-six-figures-in-under-1-year-4bf95baf793b)
@@ -152,6 +156,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 	* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
 * [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [Open Security Training](http://opensecuritytraining.info/)
 * [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
@@ -167,13 +172,16 @@ This folder holds articles, links, and scripts useful for network defense.
 * [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
 * [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
 * [Hacker Typer](http://hackertyper.com/)
+* [Neal.fun](https://neal.fun/): Bringing back the weird web!
 * [terminal.sexy](terminal.sexy): Design your terminal colorscheme
+* [Undocumented Admin](https://undocumentedadm.in/)
 
 ## Guides
 * [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
 * [[A]ndroid [A]pplication [P]entest [G]uide](https://nightowl131.github.io/AAPG/)
 * [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 * [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
+* [Building Free Active Directory Lab in Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
 * [Center for Internet Security](https://www.cisecurity.org/)
 * [CTF Design Guidelines](https://bit.ly/ctf-design)
 * [Cryptographic Attacks](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/): A Guide for the Perplexed
@@ -203,6 +211,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 * [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
 * [Please Learn to Write](https://randsinrepose.com/archives/please-learn-to-write/)
+* [Work is Work](https://codahale.com//work-is-work/): In which returns diminish
 
 ## Infographics
 * [Guillaume Infosec](https://twitter.com/Guillaume_Lpl/status/1136304330921992192)
@@ -241,6 +250,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 * [dark.fail](dark.fail): Is a darknet site online?
 * [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
+* [emailrep.io](https://emailrep.io): Simple Email Reputation
 * [file.io](https://www.file.io/): ephemeral file sharing
 * [GreyNoise Visualizer](https://viz.greynoise.io/)
 * [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
@@ -279,6 +289,7 @@ This folder holds articles, links, and scripts useful for network defense.
 	* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
 * [Eich's Law](https://calculist.blogspot.com/2010/02/eichs-law.html)
 * [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+* [HTMHell](https://www.htmhell.dev/): A collection of bad practices in HTML, copied from real websites
 * [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 * [Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
 * [On Linux's Random Number Generation](https://research.nccgroup.com/2019/12/19/on-linuxs-random-number-generation/)
@@ -297,6 +308,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's ATT&CK framework
 * [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
+* [CyberChef Recipies](https://github.com/mattnotmax/cyberchef-recipes)
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
 * [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
@@ -307,7 +319,8 @@ This folder holds articles, links, and scripts useful for network defense.
 * [National Security Agency](https://github.com/NationalSecurityAgency)
 	* Also [NSA Cybersecurity](https://github.com/nsacyber)
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
-* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) 
+* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
+* [pwndra](https://github.com/0xb0bb/pwndra): A collection of pwn/CTF related utilities for Ghidra
 * [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
@@ -325,6 +338,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Software
 * [Andriller](https://github.com/den4uk/andriller): collection of forensic tools for smartphones
 * [Buscador OSINT VM](https://inteltechniques.com/buscador/)
+* [dSploit](https://github.com/Androguide/dsploit): An Android network penetration suite
 * [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 * [EvilVM](http://evilvm.ninja/pages/quickstart/)
 * [LeakLooker](https://github.com/woj-ciech/LeakLooker): Find open databases with Shodan
@@ -337,6 +351,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Shodan snippets](https://snippets.shodan.io/)
 * [Skiptracer](https://github.com/xillwillx/skiptracer): OSINT scraping framework
 * [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
+* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
 * [Strelka](https://github.com/target/strelka): File scanning for threat hunting, threat detection, and incident response
 * [testssl.sh](https://testssl.sh/): Testing TLS/SSL encryption
 * [Threatcare Breach and Attack Simulation](https://www.threatcare.com/threatcare-releases-free-breach-and-attack-simulation-solution)
@@ -393,6 +408,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [DEF CON Media Server](https://media.defcon.org/)
 * [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
 * [I'll Let Myself In: Tactics of Physical Pen Testers](https://youtu.be/rnmcRTnTNC8)
+* [InfoCon Server](https://infocon.org/): Hacking Conference Archive
 * [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 * [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
 * [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
