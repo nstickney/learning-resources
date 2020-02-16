@@ -121,6 +121,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Rico's Cheatsheets](https://devhints.io/)
 * [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 * [TechRepublic Cheat Sheets](https://www.techrepublic.com/topic/smart-persons-guides/)
+* [Vim Cheat Sheet](https://www.cheatography.com/martinsos/cheat-sheets/vim/)
 * [Windows Security Event Logs](https://www.andreafortuna.org/2019/06/12/windows-security-event-logs-my-own-cheatsheet/)
 
 ## Checklists
@@ -151,6 +152,7 @@ This folder holds articles, links, and scripts useful for network defense.
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
 * [How to learn to code for free at Stanford and make six figures in under 1 year](https://medium.com/the-mission/how-to-learn-to-code-for-free-at-stanford-and-make-six-figures-in-under-1-year-4bf95baf793b)
 * [Immerisve Labs](https://dca.immersivelabs.online/)
+* [Katacoda](https://www.katacoda.com/): Interactive learning platform for software engineers
 * [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
 * [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
