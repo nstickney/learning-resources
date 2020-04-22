@@ -7,6 +7,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Articles
 
 - [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx) \* [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
+- [Basic Recon Using A Domain Name](https://medium.com/red-teaming-with-a-blue-team-mentaility/basic-recon-starting-with-a-domain-name-17b58027c263)
 - [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
 - [Code Fearlessly](http://cam.ly/blog/2010/12/code-fearlessly/)
 - [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
@@ -25,11 +26,14 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 - [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+- [Same Same But Different: Discovering SQL Injections Incrementally with Isomorphic SQL Statements](https://spaceraccoon.dev/same-same-but-different-discovering-sql-injections-incrementally-with)
 - [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
+- [Starting an InfoSec Career - The Megamix](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
 - [Stop Lighting Shit Up](https://secure.lol/stop-lighting-shit-up/)
 - [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 - [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
 - [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
+- [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/) and [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters/)
 - [What is DevOps?](https://theagileadmin.com/what-is-devops/)
 - [What is the Linux Auditing System (aka AuditD)?](https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/)
 
@@ -54,10 +58,12 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## "Books" (well, they are sort of books)
 
+- [ACCESS PROHIBITED - The Physical Security Tool Guide to Hacks, Cracks, and Recon](https://shop.riftrecon.com/collections/free-prize-inside)
 - [A Tour of Go](https://tour.golang.org/)
 - [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+- [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.com/posts/programming-books-you-wish-you-read-earlier/)
 - [Quantum computing for the very curious](https://quantum.country/)
 - [Security Engineering — Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
@@ -67,6 +73,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [All-Army CyberStakes](https://acictf.com/)
 - [Analyst Unknown Cyber Range](https://aucr.io/)
+- [CryptoHack](https://cryptohack.org/): A fun platform for learning modern cryptography
 - [crackmes.one](https://crackmes.one/)
 - [CSAW 365](https://365.csaw.io/)
 - [CTF365](https://ctf365.com/)
@@ -78,6 +85,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Google Gruyere](http://google-gruyere.appspot.com/)
 - [Gophercises](https://gophercises.com)
 - [Hack This Site](http://hackthissite.org/)
+- [Hacking 4 Defense](hacking4defense.stanford.edu/problems)
 - [HackTheBox](https://hackthebox.eu)
 - [HackThis](https://www.hackthis.co.uk/)
 - [HackXor](https://hackxor.net/)
@@ -123,6 +131,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Nmap](https://twitter.com/JenF3rr_/status/1213089296305065984)
 - [Oh, shit, git!](https://ohshitgit.com/)
 - [One XSS cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
+- [The POSIX Shell And Utilities](https://shellhaters.org/)
 - [Rico's Cheatsheets](https://devhints.io/)
 - [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 - [TechRepublic Cheat Sheets](https://www.techrepublic.com/topic/smart-persons-guides/)
@@ -159,6 +168,8 @@ This folder holds articles, links, and scripts useful for network defense.
 - [E-learning by Tracy Parish](https://e-learning.zeef.com/tracy.parish)
 - [From Nand to Tetris](https://www.nand2tetris.org/)
 - [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276)
+- [GraphQLab](https://graphqlab.digi.ninja/)
+- [Hopper's Roppers](https://www.hoppersroppers.org/training)
 - [How to learn to code for free at Stanford and make six figures in under 1 year](https://medium.com/the-mission/how-to-learn-to-code-for-free-at-stanford-and-make-six-figures-in-under-1-year-4bf95baf793b)
 - [Immerisve Labs](https://dca.immersivelabs.online/)
 - [Katacoda](https://www.katacoda.com/): Interactive learning platform for software engineers
@@ -173,6 +184,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Portswigger Web Security Academy](https://portswigger.net/web-security)
 - [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 - [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
+- [PwnSchool Project](https://launchpass.com/pwnschoolproject)
 - [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
 - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0)
@@ -201,10 +213,10 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Guides
 
+- [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 - [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
 - [Automating the Vim workplace](https://sharats.me/posts/automating-the-vim-workplace/)
 - [[A]ndroid [A]pplication [P]entest [G]uide](https://nightowl131.github.io/AAPG/)
-- [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 - [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 - [Building Free Active Directory Lab in Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
 - [Center for Internet Security](https://www.cisecurity.org/)
@@ -215,6 +227,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Ethical OS](https://ethicalos.org)
 - [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [The Internet of Shit Guide](https://internetofshit.net/home)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): Scenic Programming Language Tours
 - [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) for anyone who knows a programming language
@@ -225,7 +238,6 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Regex for Noobs (like me!)](https://www.janmeppe.com/blog/regex-for-noobs/): An Illustrated Guide
 - [Sideways Dictionary](https://sidewaysdictionary.com/): Please explain ...
 - [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
-- [The Internet of Shit Guide](https://internetofshit.net/home)
 - [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 - [Wizard Zines](https://wizardzines.com)
 
@@ -251,7 +263,10 @@ This folder holds articles, links, and scripts useful for network defense.
 - [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
 - [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
-- [Advice to a student poet from E.E. Cummings](https://cummingsatsilverlake.com/2015/06/22/advice-to-a-student-poet-from-e-e-cummings/) > And so my advice to all young people... is: do something easy, like learning how to blow up the world — unless you're not only willing, but glad, to feel and work and fight till you die.
+- [Advice to a student poet from E.E. Cummings](https://cummingsatsilverlake.com/2015/06/22/advice-to-a-student-poet-from-e-e-cummings/)
+
+> And so my advice to all young people... is: do something easy, like learning how to blow up the world — unless you're not only willing, but glad, to feel and work and fight till you die.
+
 - [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 - [Codex Atlanticus](http://codex-atlanticus.it/)
 - [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
@@ -344,6 +359,7 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Repositories
 
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
+- [Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
 - [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's ATT&CK framework
 - [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
@@ -356,6 +372,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Logging Made Easy](https://github.com/ukncsc/lme) \* from the [United Kingdom National Cyber Security Center](https://github.com/ukncsc)
 - [National Security Agency](https://github.com/NationalSecurityAgency) \* Also [NSA Cybersecurity](https://github.com/nsacyber)
 - [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
+- [Operation Secretum Praesidium](https://gitlab.com/stayfrostyx/opsecretumpraesidium)
 - [OSCP Exam Report Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
 - [Powershell & Python](https://github.com/MSAdministrator/powershell-python-comparison-presentation): A side-by-side comparison
 - [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
@@ -384,6 +401,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 - [EvilVM](http://evilvm.ninja/pages/quickstart/)
 - [LeakLooker](https://github.com/woj-ciech/LeakLooker): Find open databases with Shodan
+- [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration): Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 - [netsniff-ng](http://netsniff-ng.org/): Swiss army knife for your daily Linux network plumbing
 - [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
@@ -458,7 +476,10 @@ This folder holds articles, links, and scripts useful for network defense.
 - [InfoCon Server](https://infocon.org/): Hacking Conference Archive
 - [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
+- [Radare2 Tutorial](https://www.youtube.com/playlist?list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQe
 - [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
+- [Vim Alphabet](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD)
+- [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
 
 ## Vulnerable Applications and Systems
 
