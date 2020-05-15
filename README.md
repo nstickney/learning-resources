@@ -296,7 +296,9 @@ This folder holds articles, links, and scripts useful for network defense.
 - [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 - [Dangerzone](https://dangerzone.rocks/): Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
 - [dark.fail](dark.fail): Is a darknet site online?
+- [diagrams.net](https://www.diagrams.net/): open source, online, desktop and container deployable diagramming software
 - [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
+- [Excalidraw](https://excalidraw.com/): Virtual whiteboard for sketching hand-drawn like diagram
 - [emailrep.io](https://emailrep.io): Simple Email Reputation
 - [file.io](https://www.file.io/): ephemeral file sharing
 - [GreyNoise Visualizer](https://viz.greynoise.io/)
