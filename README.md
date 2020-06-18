@@ -26,6 +26,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 - [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
+- [Proxyjump, the SSH option you probably never heard of](https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464)
 - [Same Same But Different: Discovering SQL Injections Incrementally with Isomorphic SQL Statements](https://spaceraccoon.dev/same-same-but-different-discovering-sql-injections-incrementally-with)
 - [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
 - [Starting an InfoSec Career - The Megamix](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
@@ -46,6 +47,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Incrememt: Security](https://increment.com/security/)
 - [Krebs on Security](https://krebsonsecurity.com/)
 - [NetSec Subreddit](https://www.reddit.com/r/netsec/) \* [Ask NetSec Subreddit](https://www.reddit.com/r/AskNetsec/)
+- [Open Source Forensic Tools](https://eforensicsmag.com/download/open-source-forensic-tools/)
 - [Project Zero](https://googleprojectzero.blogspot.com/)
 - [Pwned Subreddit](https://www.reddit.com/r/pwned/)
 - [SANS Reading Room](https://www.sans.org/reading-room/)
@@ -184,10 +186,12 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Portswigger Web Security Academy](https://portswigger.net/web-security)
 - [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 - [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/)
 - [PwnSchool Project](https://launchpass.com/pwnschoolproject)
 - [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
 - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0)
+- [UW CSE341](https://courses.cs.washington.edu/courses/cse341/19sp/): Programming Languages, Spring 2019
 
 ## Doctrine, Ethics, Law, and Policy
 
@@ -197,9 +201,9 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Exercises
 
 - [curl exercises](https://jvns.ca/blog/2019/08/27/curl-exercises/)
-- [flashcards from wizardzines](https://flashcards.wizardzines.com/)
 - [git exercises](https://jvns.ca/blog/2019/08/30/git-exercises--navigate-a-repository/): navigate a repository
 - [PentesterLab: Introduction to code review](https://pentesterlab.com/exercises/codereview/course)
+- [questions from wizardzines](https://questions.wizardzines.com/)
 
 ## Fun
 
@@ -208,6 +212,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
 - [Hacker Typer](http://hackertyper.com/)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
+- [Penguin Classics Cover Generator](https://nullk.github.io/penguin.html)
 - [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 - [Undocumented Admin](https://undocumentedadm.in/)
 
@@ -220,11 +225,13 @@ This folder holds articles, links, and scripts useful for network defense.
 - [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 - [Building Free Active Directory Lab in Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
 - [Center for Internet Security](https://www.cisecurity.org/)
+- [Complete Sed Command Guide](https://linuxhandbook.com/sed-reference-guide/)
 - [CTF Design Guidelines](https://bit.ly/ctf-design)
 - [Cryptographic Attacks](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/): A Guide for the Perplexed
 - [Defending Windows Domain Against Mimikatz Attacks](http://woshub.com/defending-windows-domain-against-mimikatz-attacks/)
 - [The Dog Whisperer's Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 - [Ethical OS](https://ethicalos.org)
+- [Ethical Web Design](https://hackers.town/@estoricru/104237914496253521)
 - [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [The Internet of Shit Guide](https://internetofshit.net/home)
@@ -238,14 +245,17 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Regex for Noobs (like me!)](https://www.janmeppe.com/blog/regex-for-noobs/): An Illustrated Guide
 - [Sideways Dictionary](https://sidewaysdictionary.com/): Please explain ...
 - [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+- [Trunked Radio: A Guide](https://www.andrewmohawk.com/2020/06/12/trunked-radio-a-guide/)
 - [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 - [Wizard Zines](https://wizardzines.com)
 
 ## Human skills
 
+- [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/): The Real Reason Remote Workers Are More Productive
 - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 - [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits.](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
 - [How Focus Became More Important Than Intelligence](https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence)
+- [How to Salvage a Disastrous Day in Your Covid-19 Quarantine](https://www.chronicle.com/article/How-to-Salvage-a-Disastrous/248569)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/)
 - [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
@@ -280,13 +290,16 @@ This folder holds articles, links, and scripts useful for network defense.
 - [The Makers of Things](https://randsinrepose.com/archives/the-makers-of-things/)
 - [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois)
 - [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
+- [We've built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 - [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - [Wisdom from James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens)
 - [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 - [spaceprob.es](https://spaceprob.es/)
+- [They Write the Right Stuff](https://www.fastcompany.com/28121/they-write-right-stuff)
 
 ## Online tools
 
+- [AmIUnique](https://www.amiunique.org/fp): My browser fingerprint
 - [AS Report](https://isc.sans.edu/asreport.html)
 - [AutoDraw](https://www.autodraw.com/)
 - [Binary Ninja Cloud](https://cloud.binary.ninja/)
@@ -309,11 +322,15 @@ This folder holds articles, links, and scripts useful for network defense.
 - [MailTester.com](http://mailtester.com/): Check validity of an email address
 - [Mail-Tester](https://www.mail-tester.com): Test the spammy-ness of email newsletters
 - [Mamont's open FTP Index](https://www.mmnt.net)
+- [Measure](https://web.dev/measure/): See how well your website performs
+- [MilitaryMap](https://www.map.army/): Plan your Mission
+- [Mono-Alphabetic Substitution](https://www.dcode.fr/monoalphabetic-substitution)
 - [OSINT Framework](https://osintframework.com/)
 - [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 - [SSL Labs](https://www.ssllabs.com/): test https configuration
 - [tilde.town](https://tilde.town/): a computer meant for sharing
 - [WebPageTest](http://webpagetest.org): website performance metrics
+- [What Does My Site Cost?](https://whatdoesmysitecost.com/): Find out how much it costs for someone to use your site on mobile networks around the world
 - [Wigle.net](https://wigle.net/): All the networks. Found by Everyone.
 
 ## Papers
@@ -330,9 +347,11 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
 - [Last visits to your Twitter profile](http://lastvisits.club/)
 - [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
+- [Own your domain](https://www.garron.blog/posts/own-your-domain.html)
 - [Penetration Tester's Guide to Windows 10 Privacy & Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma)
 - [Security Checklist](https://securitycheckli.st/)
 - [Semiphemeral](https://github.com/micahflee/semiphemeral): Automatically delete your old tweets, except for the ones you want to keep - here's the [online app](https://semiphemeral.com/)
+- [Should I Block Ads?](https://shouldiblockads.com/): **Yes**, you should use an ad blocker
 - [SSH Agent Forwarding considered harmful](https://heipei.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/): (try `ssh whoami.filippo.io` to see the effects)
 - [Skip the Surveillance By Opting Out of Face Recognition At Airports](https://www.eff.org/deeplinks/2019/04/skip-surveillance-opting-out-face-recognition-airports)
 
@@ -407,6 +426,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 - [netsniff-ng](http://netsniff-ng.org/): Swiss army knife for your daily Linux network plumbing
 - [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
+- [PingCastle](https://www.pingcastle.com/): Get Active Directory Security at 80% in 20% of the time
 - [Princeton IoT Inspector](https://iot-inspector.princeton.edu/)
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng): Web reconnaissance framework
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
