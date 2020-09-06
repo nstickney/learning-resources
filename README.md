@@ -24,6 +24,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Introducing the InfoSec colour wheel—blending developers with red and blue security teams.](https://hackernoon.com/introducing-the-infosec-colour-wheel-blending-developers-with-red-and-blue-security-teams-6437c1a07700)
 - [Log Everything All The Time](http://highscalability.com/log-everything-all-time)
 - [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
+- [new-sysadmin](https://man.sr.ht/ops/new-sysadmin.md): You're a production sysadmin now. That comes with certain responsibilities.
 - [PowerShell ♥ the Blue Team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 - [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 - [Proxyjump, the SSH option you probably never heard of](https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464)
@@ -280,6 +281,10 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 - [Codex Atlanticus](http://codex-atlanticus.it/)
 - [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
+- [Fast Running](https://drawinglinks.substack.com/p/fast-running)
+
+> But after a certain point, the expectations become the anchor, not the engine.
+
 - [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 - [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 - [Infosec Income Questionnaire (Responses)](https://docs.google.com/spreadsheets/d/19SDu4bjcLYFOr0fw3UGh-KeJp6IU1ApchVaTzZqhBuc/)
@@ -305,6 +310,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Binary Ninja Cloud](https://cloud.binary.ninja/)
 - [Botometer](https://botometer.iuni.iu.edu/)
 - [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com/): check if a CSP serves as strong mitigation against XSS
 - [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
 - [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 - [Dangerzone](https://dangerzone.rocks/): Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
@@ -417,6 +423,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon): multi-threaded network reconnaissance tool which performs automated enumeration of services
 - [Andriller](https://github.com/den4uk/andriller): collection of forensic tools for smartphones
+- [axiom](https://github.com/pry0cc/axiom): dynamic infrastructure setup for bug bounty and pentesting
 - [Buscador OSINT VM](https://inteltechniques.com/buscador/)
 - [dSploit](https://github.com/Androguide/dsploit): An Android network penetration suite
 - [Envizon](https://github.com/evait-security/envizon): The network visualization tool
