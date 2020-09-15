@@ -332,6 +332,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [MilitaryMap](https://www.map.army/): Plan your Mission
 - [Mono-Alphabetic Substitution](https://www.dcode.fr/monoalphabetic-substitution)
 - [OSINT Framework](https://osintframework.com/)
+- [regular expressions 101](https://regex101.com/)
 - [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
 - [SSL Labs](https://www.ssllabs.com/): test https configuration
 - [tilde.town](https://tilde.town/): a computer meant for sharing
