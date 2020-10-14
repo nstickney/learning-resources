@@ -35,6 +35,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 - [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
 - [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
+- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
 - [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/) and [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters/)
 - [What is DevOps?](https://theagileadmin.com/what-is-devops/)
 - [What is the Linux Auditing System (aka AuditD)?](https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/)
@@ -76,6 +77,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [All-Army CyberStakes](https://acictf.com/)
 - [Analyst Unknown Cyber Range](https://aucr.io/)
+- [The Case of the Stolen Szechuan Sauce](https://dfirmadness.com/the-stolen-szechuan-sauce/)
 - [CryptoHack](https://cryptohack.org/): A fun platform for learning modern cryptography
 - [crackmes.one](https://crackmes.one/)
 - [CSAW 365](https://365.csaw.io/)
@@ -188,6 +190,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 - [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/)
+- [pwn.college](https://pwn.college/)
 - [PwnSchool Project](https://launchpass.com/pwnschoolproject)
 - [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
@@ -308,7 +311,10 @@ This folder holds articles, links, and scripts useful for network defense.
 - [AS Report](https://isc.sans.edu/asreport.html)
 - [AutoDraw](https://www.autodraw.com/)
 - [Binary Ninja Cloud](https://cloud.binary.ninja/)
+- [Blacklight](https://themarkup.org/blacklight): A Real-Time Website Privacy Inspector
 - [Botometer](https://botometer.iuni.iu.edu/)
+- [Bot Sentinel](https://botsentinel.com/)
+- [Buypass Go SSL](https://www.buypass.com/ssl/products/acme): Free TLS certificates
 - [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): check if a CSP serves as strong mitigation against XSS
 - [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
@@ -325,6 +331,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [JS Bin](https://jsbin.com/): JavaScript learning tool
 - [Hunchly](https://hunch.ly/)
 - [IM Observatory](https://xmpp.net/): Testing the security of the Jabber/XMPP network since '13.
+- [Let's Encrypt](https://letsencrypt.org/): Free TLS certificates
 - [MailTester.com](http://mailtester.com/): Check validity of an email address
 - [Mail-Tester](https://www.mail-tester.com): Test the spammy-ness of email newsletters
 - [Mamont's open FTP Index](https://www.mmnt.net)
@@ -361,6 +368,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Should I Block Ads?](https://shouldiblockads.com/): **Yes**, you should use an ad blocker
 - [SSH Agent Forwarding considered harmful](https://heipei.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/): (try `ssh whoami.filippo.io` to see the effects)
 - [Skip the Surveillance By Opting Out of Face Recognition At Airports](https://www.eff.org/deeplinks/2019/04/skip-surveillance-opting-out-face-recognition-airports)
+- [Why & Where You Should Plant Your Flag](https://krebsonsecurity.com/2020/08/why-where-you-should-you-plant-your-flag/)
 
 ## Programming Advice
 
