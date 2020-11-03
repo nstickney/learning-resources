@@ -256,11 +256,13 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Human skills
 
+- [About Cybersecurity Management and Expectations](https://tisiphone.net/2020/10/27/about-cybersecurity-management-and-expectations/)
 - [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/): The Real Reason Remote Workers Are More Productive
 - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 - [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits.](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
 - [How Focus Became More Important Than Intelligence](https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence)
 - [How to Salvage a Disastrous Day in Your Covid-19 Quarantine](https://www.chronicle.com/article/How-to-Salvage-a-Disastrous/248569)
+- [The Legal Risks of Security Research](https://www.schneier.com/blog/archives/2020/10/the-legal-risks-of-security-research.html)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/)
 - [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
@@ -464,6 +466,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Tutorials
 
+- [Awk in 20 minutes](https://ferd.ca/awk-in-20-minutes.html)
 - [Debugging in Vim](https://www.dannyadam.com/blog/2019/05/debugging-in-vim/)
 - [git rebase in depth](https://git-rebase.io/)
 - [email = git = &lt;3](https://git-send-email.io/)
