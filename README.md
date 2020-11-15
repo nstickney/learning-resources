@@ -180,6 +180,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Immerisve Labs](https://dca.immersivelabs.online/)
 - [Katacoda](https://www.katacoda.com/): Interactive learning platform for software engineers
 - [Learn to Code From Home](https://www.freecodecamp.org/news/coronavirus-academy/): The Coronavirus Quarantine Developer Skill Handbook
+- [Low-Level Academy](https://lowlvl.org): TCP/IP Fundamentals (in Rust)
 - [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
 - [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
 - [Microsoft Virtual Academy](https://mva.microsoft.com) \* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
@@ -318,6 +319,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Botometer](https://botometer.iuni.iu.edu/)
 - [Bot Sentinel](https://botsentinel.com/)
 - [Buypass Go SSL](https://www.buypass.com/ssl/products/acme): Free TLS certificates
+- [check-your-website.server-daten-de](https://check-your-website.server-daten.de): Check DNS, Urls + Redirects, Certificates and Content of your Website
 - [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): check if a CSP serves as strong mitigation against XSS
 - [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
