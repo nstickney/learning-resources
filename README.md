@@ -132,9 +132,11 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Cheatsheets
 
 - [A linux-oriented binary anaylysis cheatsheet](https://www.matteomalvica.com/binary_analysis/)
+- [Dangit, Git!?!](https://dangitgit.com)
 - [Linux Performance](http://brendangregg.com/linuxperf.html)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Nmap](https://twitter.com/JenF3rr_/status/1213089296305065984)
+- [One-liners](https://linuxcommandlibrary.com/basic/oneliners.html)
 - [Oh, shit, git!](https://ohshitgit.com/)
 - [One XSS cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
 - [The POSIX Shell And Utilities](https://shellhaters.org/)
@@ -195,6 +197,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [pwn.college](https://pwn.college/)
 - [PwnSchool Project](https://launchpass.com/pwnschoolproject)
 - [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
+- [The Recurse Center](https://www.recurse.com/)
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
 - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0)
 - [UW CSE341](https://courses.cs.washington.edu/courses/cse341/19sp/): Programming Languages, Spring 2019
@@ -228,6 +231,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
 - [Automating the Vim workplace](https://sharats.me/posts/automating-the-vim-workplace/)
 - [[A]ndroid [A]pplication [P]entest [G]uide](https://nightowl131.github.io/AAPG/)
+- [Bare-Metal STM32](https://hackaday.com/2020/11/17/bare-metal-stm32-from-power-up-to-hello-world/): From Power-Up to Hello World
 - [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 - [Building Free Active Directory Lab in Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
 - [Center for Internet Security](https://www.cisecurity.org/)
@@ -240,6 +244,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Ethical Web Design](https://hackers.town/@estoricru/104237914496253521)
 - [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [How DNS Works](https://howdns.works/)
 - [The Internet of Shit Guide](https://internetofshit.net/home)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): Scenic Programming Language Tours
 - [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
@@ -253,6 +258,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [TecMint Linux Guide](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 - [Trunked Radio: A Guide](https://www.andrewmohawk.com/2020/06/12/trunked-radio-a-guide/)
 - [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
+- [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 - [Wizard Zines](https://wizardzines.com)
 
 ## Human skills
@@ -260,6 +266,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [About Cybersecurity Management and Expectations](https://tisiphone.net/2020/10/27/about-cybersecurity-management-and-expectations/)
 - [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/): The Real Reason Remote Workers Are More Productive
 - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
+- [Consent decision making](https://help.loomio.org/en/guides/consent_process/)
 - [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits.](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
 - [How Focus Became More Important Than Intelligence](https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence)
 - [How to Salvage a Disastrous Day in Your Covid-19 Quarantine](https://www.chronicle.com/article/How-to-Salvage-a-Disastrous/248569)
@@ -268,6 +275,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/)
 - [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
 - [Please Learn to Write](https://randsinrepose.com/archives/please-learn-to-write/)
+- [Principles of Technology Leadership](https://invidious.snopyta.org/watch?v=9QMGAtxUlAc) (watch how Bryan Cantrill's elbow bends wayyyyy too far)
 - [Techincal Writing Courses for Engineers](https://developers.google.com/tech-writing)
 - [Work is Work](https://codahale.com//work-is-work/): In which returns diminish
 
@@ -287,6 +295,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 - [Codex Atlanticus](http://codex-atlanticus.it/)
+- [Death To Bullshit](https://deathtobullshit.com/)
 - [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
 - [Fast Running](https://drawinglinks.substack.com/p/fast-running)
 
@@ -311,6 +320,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Online tools
 
+- [AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/): Are your URLs too short?
 - [AmIUnique](https://www.amiunique.org/fp): My browser fingerprint
 - [AS Report](https://isc.sans.edu/asreport.html)
 - [AutoDraw](https://www.autodraw.com/)
@@ -513,6 +523,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 ## Videos and (Video) Playlists
 
+- [A Compiler From Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
 - [Active Directory](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ)
 - [DEF CON Media Server](https://media.defcon.org/)
 - [Demystifying the Windows Firewall](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) – Learn how to irritate attackers without crippling your network
