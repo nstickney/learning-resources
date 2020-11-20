@@ -207,6 +207,16 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Cybersecurity Law, Policy, and Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103)
 - [Cyberspace Solarium Comission](https://www.solarium.gov/)
 
+## Enlightenment
+
+- [The Codeless Code](http://thecodelesscode.com/case/1)
+- [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/)
+- [Emperor Sh and the Traveller](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt)
+- [Rootless Root](http://www.catb.org/~esr/writings/unix-koans/)
+- [The Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
+- [The Unix Power Classic](http://vrici.lojban.org/~cowan/upc/)
+- [Vim Kōans](https://sanctum.geek.nz/arabesque/vim-koans/)
+
 ## Exercises
 
 - [curl exercises](https://jvns.ca/blog/2019/08/27/curl-exercises/)
@@ -222,6 +232,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Hacker Typer](http://hackertyper.com/)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
 - [Penguin Classics Cover Generator](https://nullk.github.io/penguin.html)
+- [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
 - [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 - [Undocumented Admin](https://undocumentedadm.in/)
 
