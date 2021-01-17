@@ -8,11 +8,13 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx) \* [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 - [Basic Recon Using A Domain Name](https://medium.com/red-teaming-with-a-blue-team-mentaility/basic-recon-starting-with-a-domain-name-17b58027c263)
+- [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 - [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
 - [C Program Compilation Process - Source to Binary](https://hackthedeveloper.com/c-program-compilation-process/)
 - [Code Fearlessly](http://cam.ly/blog/2010/12/code-fearlessly/)
 - [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 - [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
+- [DEF CON 28 OpenSOC Blue Team CTF: Lessons and Tips](https://pberba.github.io/security/2020/08/11/defcon-28-blueteam-opensoc-ctf/)
 - [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
 - [Day-1 Skills That Cybersecurity Hiring Managers Are Looking For](https://danielmiessler.com/blog/day-1-skills-required-to-land-an-entry-level-cybersecurity-job/)
 - [Defense at Scale](https://www.netmeister.org/blog/defense-at-scale.html)
@@ -45,7 +47,9 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [Active Directory Security](https://adsecurity.org/)
 - [Ars Technica Security](https://arstechnica.com/tag/security/)
+- [BASHing Data](https://datafix.com.au/BASHing/)
 - [Dark Reading](https://www.darkreading.com/)
+- [The DFIR Report](https://thedfirreport.com/)
 - [Internet Storm Center Diary](http://isc.sans.edu/diary.html)
 - [Incrememt: Security](https://increment.com/security/)
 - [Krebs on Security](https://krebsonsecurity.com/)
@@ -68,6 +72,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+- [Principles of System Administration](https://www.netmeister.org/book/principles-of-system-administration.pdf)
 - [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.com/posts/programming-books-you-wish-you-read-earlier/)
 - [Quantum computing for the very curious](https://quantum.country/)
 - [Security Engineering — Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html)
@@ -136,7 +141,9 @@ This folder holds articles, links, and scripts useful for network defense.
 ## Cheatsheets
 
 - [A linux-oriented binary anaylysis cheatsheet](https://www.matteomalvica.com/binary_analysis/)
+- [Awk cheatsheet](https://quickref.me/awk)
 - [Dangit, Git!?!](https://dangitgit.com)
+- [hackerscrolls' SecurityTips MindMaps](https://github.com/hackerscrolls/SecurityTips/tree/master/MindMaps)
 - [Linux Performance](http://brendangregg.com/linuxperf.html)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Nmap](https://twitter.com/JenF3rr_/status/1213089296305065984)
@@ -233,6 +240,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
 - [Bach's prelude in C major from WTC book I, written in sed](https://github.com/laserbat/bach.sed)
 - [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
+- [Fancy Font Generator](https://qwerty.dev/fancy-font-generator/)
 - [Hacker Typer](http://hackertyper.com/)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
 - [Penguin Classics Cover Generator](https://nullk.github.io/penguin.html)
@@ -280,6 +288,7 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [About Cybersecurity Management and Expectations](https://tisiphone.net/2020/10/27/about-cybersecurity-management-and-expectations/)
 - [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/): The Real Reason Remote Workers Are More Productive
+- [Boilerplate Advice](https://www.ribbonfarm.com/2021/01/06/boilerplate-advice/)
 - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 - [Consent decision making](https://help.loomio.org/en/guides/consent_process/)
 - [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits.](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
@@ -432,6 +441,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [CyberChef Recipies](https://github.com/mattnotmax/cyberchef-recipes)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
 - [Information Security / Hacking for noobs](https://github.com/tkisason/getting-started-in-infosec)
+- [The Hitchhiker's Guide to Online Anonymity](https://github.com/AnonymousPlanet/thgtoa)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
 - [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials) \* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
@@ -476,6 +486,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Princeton IoT Inspector](https://iot-inspector.princeton.edu/)
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng): Web reconnaissance framework
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
+- [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 - [Shodan snippets](https://snippets.shodan.io/)
 - [Skiptracer](https://github.com/xillwillx/skiptracer): OSINT scraping framework
 - [SOF-ELK](https://github.com/philhagen/sof-elk): Security Operations and Forensics — Elasticsearch, Logstash, and Kibana
