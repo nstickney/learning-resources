@@ -1,12 +1,9 @@
-# C3T Blue Element Resources
-
-> We must protect this house!
-
-This folder holds articles, links, and scripts useful for network defense.
+This README holds links to everything I've found.
 
 ## Articles
 
-- [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx) \* [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
+- [10 Immutable Laws of Security Administration](https://technet.microsoft.com/library/cc722488.aspx)
+- [Ten Immutable Laws of Security (Version 2.0)](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/)
 - [Basic Recon Using A Domain Name](https://medium.com/red-teaming-with-a-blue-team-mentaility/basic-recon-starting-with-a-domain-name-17b58027c263)
 - [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 - [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b) (and [Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2))
