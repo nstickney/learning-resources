@@ -37,6 +37,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Stop Lighting Shit Up](https://secure.lol/stop-lighting-shit-up/)
 - [Threat Intel RSS Feeds via Twitter Lists](https://www.fracturelabs.com/posts/2018/threat-intel-rss-feeds-via-twitter-lists/)
 - [Top 25 Active Directory Security Best Practices](https://activedirectorypro.com/active-directory-security-best-practices/)
+- [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/)
 - [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 - [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
 - [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/) and [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters/)
@@ -69,9 +70,12 @@ This folder holds articles, links, and scripts useful for network defense.
 
 - [ACCESS PROHIBITED - The Physical Security Tool Guide to Hacks, Cracks, and Recon](https://shop.riftrecon.com/collections/free-prize-inside)
 - [A Tour of Go](https://tour.golang.org/)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+- [Building Virtual Machine Labs](https://leanpub.com/avatar): A Hands-On Guide
 - [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Principles of System Administration](https://www.netmeister.org/book/principles-of-system-administration.pdf)
 - [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.com/posts/programming-books-you-wish-you-read-earlier/)
 - [Quantum computing for the very curious](https://quantum.country/)
@@ -192,6 +196,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [How to learn to code for free at Stanford and make six figures in under 1 year](https://medium.com/the-mission/how-to-learn-to-code-for-free-at-stanford-and-make-six-figures-in-under-1-year-4bf95baf793b)
 - [Immerisve Labs](https://dca.immersivelabs.online/)
 - [Katacoda](https://www.katacoda.com/): Interactive learning platform for software engineers
+- [Learn-C.org](https://www.learn-c.org/)
 - [Learn to Code From Home](https://www.freecodecamp.org/news/coronavirus-academy/): The Coronavirus Quarantine Developer Skill Handbook
 - [Low-Level Academy](https://lowlvl.org): TCP/IP Fundamentals (in Rust)
 - [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
@@ -537,6 +542,7 @@ This folder holds articles, links, and scripts useful for network defense.
 - [Using Wireshark: Exporting Objects from a Pcap](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/)
 - [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 - [Vim Tips — Edit Remote Files with Vim On Linux](https://www.ostechnix.com/vim-tips-edit-remote-files-with-vim-on-linux/)
+- [Vim Tip of the Day: A Series](https://countvajhula.com/2021/01/21/vim-tip-of-the-day-a-series/)
 - [Windows management from linux command line](http://www.lylebackenroth.com/blog/2010/06/29/manage-windows-remotely-from-a-linux-command-line-interface/)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Writing in Plain Text: A Tutorial for the Non-Techy Writer](https://surfingedges.com/2014/10/28/writing-in-plain-text-a-tutorial-for-the-non-techy-writer/)
