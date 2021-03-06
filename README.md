@@ -416,7 +416,8 @@ This README holds links to everything I've found.
 - [The Codeless Code](http://thecodelesscode.com/)
 - [Crash Course on Notation in Programming Language Theory](https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
 - [Crash-Only Software](https://lwn.net/Articles/191059/)
-- [Destroy All Software](https://www.destroyallsoftware.com/) \* [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
+- [Destroy All Software](https://www.destroyallsoftware.com/)
+  - [Wat](https://www.destroyallsoftware.com/talks/wat), [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good), [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript), etc
 - [Eich's Law](https://calculist.blogspot.com/2010/02/eichs-law.html)
 - [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 - [HTMHell](https://www.htmhell.dev/): A collection of bad practices in HTML, copied from real websites
@@ -560,7 +561,7 @@ This README holds links to everything I've found.
 - [InfoCon Server](https://infocon.org/): Hacking Conference Archive
 - [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
-- [Radare2 Tutorial](https://www.youtube.com/playlist?list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQe
+- [Radare2 Tutorial](https://www.youtube.com/playlist?list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQe)
 - [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
 - [Vim Alphabet](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD)
 - [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
