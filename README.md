@@ -144,6 +144,7 @@ This README holds links to everything I've found.
 
 - [A linux-oriented binary anaylysis cheatsheet](https://www.matteomalvica.com/binary_analysis/)
 - [Awk cheatsheet](https://quickref.me/awk)
+- [The Concise Blue Team Cheat Sheets](https://itblogr.com/wp-content/uploads/2020/04/The-Concise-Blue-Team-cheat-Sheets.pdf)
 - [Dangit, Git!?!](https://dangitgit.com)
 - [hackerscrolls' SecurityTips MindMaps](https://github.com/hackerscrolls/SecurityTips/tree/master/MindMaps)
 - [Linux Performance](http://brendangregg.com/linuxperf.html)
