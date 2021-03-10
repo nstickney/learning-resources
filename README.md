@@ -51,7 +51,8 @@ This README holds links to everything I've found.
 - [Internet Storm Center Diary](http://isc.sans.edu/diary.html)
 - [Incrememt: Security](https://increment.com/security/)
 - [Krebs on Security](https://krebsonsecurity.com/)
-- [NetSec Subreddit](https://www.reddit.com/r/netsec/) \* [Ask NetSec Subreddit](https://www.reddit.com/r/AskNetsec/)
+- [NetSec Subreddit](https://www.reddit.com/r/netsec/)
+  - [Ask NetSec Subreddit](https://www.reddit.com/r/AskNetsec/)
 - [Open Source Forensic Tools](https://eforensicsmag.com/download/open-source-forensic-tools/)
 - [Project Zero](https://googleprojectzero.blogspot.com/)
 - [Pwned Subreddit](https://www.reddit.com/r/pwned/)
@@ -198,7 +199,8 @@ This README holds links to everything I've found.
 - [Low-Level Academy](https://lowlvl.org): TCP/IP Fundamentals (in Rust)
 - [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
 - [Microsoft Software and Systems Academy](https://military.microsoft.com/programs/mssa)
-- [Microsoft Virtual Academy](https://mva.microsoft.com) \* [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
+- [Microsoft Virtual Academy](https://mva.microsoft.com)
+  - [Windows Server Administration Fundamentals](https://mva.microsoft.com/en-US/training-courses/windows-server-administration-fundamentals-8477): Windows Server 2008
 - [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Open Security Training](http://opensecuritytraining.info/)
@@ -447,9 +449,12 @@ This README holds links to everything I've found.
 - [The Hitchhiker's Guide to Online Anonymity](https://github.com/AnonymousPlanet/thgtoa)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [Infosec Reference](https://github.com/rmusser01/Infosec_Reference): a reference that doesn't suck
-- [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials) \* Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
-- [Logging Made Easy](https://github.com/ukncsc/lme) \* from the [United Kingdom National Cyber Security Center](https://github.com/ukncsc)
-- [National Security Agency](https://github.com/NationalSecurityAgency) \* Also [NSA Cybersecurity](https://github.com/nsacyber)
+- [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials)
+  - Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
+- [Logging Made Easy](https://github.com/ukncsc/lme)
+  - From the [United Kingdom National Cyber Security Center](https://github.com/ukncsc)
+- [National Security Agency](https://github.com/NationalSecurityAgency)
+  - Also [NSA Cybersecurity](https://github.com/nsacyber)
 - [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
 - [Operation Secretum Praesidium](https://gitlab.com/stayfrostyx/opsecretumpraesidium)
 - [OSCP Exam Report Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
