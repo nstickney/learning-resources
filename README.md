@@ -22,6 +22,8 @@ This README holds links to everything I've found.
 - [How To Build And Run A SOC for Incident Response: A Collection of Resources](https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources)
 - [InfoSec](https://danielmiessler.com/infosec/)
 - [Introducing the InfoSec colour wheel—blending developers with red and blue security teams.](https://hackernoon.com/introducing-the-infosec-colour-wheel-blending-developers-with-red-and-blue-security-teams-6437c1a07700)
+- [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
+- [Linux Privilege Escalation: Automated Script](https://www.hackingarticles.in/linux-privilege-escalation-automated-script/)
 - [Log Everything All The Time](http://highscalability.com/log-everything-all-time)
 - [Masscan as a lesson in TCP/IP](https://blog.erratasec.com/2018/10/masscan-as-lesson-in-tcpip.html)
 - [new-sysadmin](https://man.sr.ht/ops/new-sysadmin.md): You're a production sysadmin now. That comes with certain responsibilities.
@@ -153,6 +155,8 @@ This README holds links to everything I've found.
 - [One-liners](https://linuxcommandlibrary.com/basic/oneliners.html)
 - [Oh, shit, git!](https://ohshitgit.com/)
 - [One XSS cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
+- [OSCP Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/)
+  - Plus the [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 - [The POSIX Shell And Utilities](https://shellhaters.org/)
 - [Rico's Cheatsheets](https://devhints.io/)
 - [SANS Windows Command Line Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
@@ -186,6 +190,7 @@ This README holds links to everything I've found.
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/): Python scripting
 - [Brilliant.org](https://brilliant.org): Math and science done right
 - [Clark Center](https://www.clark.center/home): Effective cybersecurity curriculum at your fingertips
+- [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 - [Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/): Tufts University COMP 116 — Introduction to Computer Security
 - [E-learning by Tracy Parish](https://e-learning.zeef.com/tracy.parish)
 - [From Nand to Tetris](https://www.nand2tetris.org/)
@@ -228,6 +233,7 @@ This README holds links to everything I've found.
 - [The Codeless Code](http://thecodelesscode.com/case/1)
 - [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/)
 - [Emperor Sh and the Traveller](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt)
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) and [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
 - [Rootless Root](http://www.catb.org/~esr/writings/unix-koans/)
 - [The Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 - [The Unix Power Classic](http://vrici.lojban.org/~cowan/upc/)
@@ -245,12 +251,16 @@ This README holds links to everything I've found.
 - [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
 - [Bach's prelude in C major from WTC book I, written in sed](https://github.com/laserbat/bach.sed)
 - [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
+- [🤣⌨️](https://emojityper.com/#emojityoer): Type words, get emoji.
 - [Fancy Font Generator](https://qwerty.dev/fancy-font-generator/)
 - [Hacker Typer](http://hackertyper.com/)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
+- [Online color picker for 256 colors terminal](https://michurin.github.io/xterm256-color-picker/)
 - [Penguin Classics Cover Generator](https://nullk.github.io/penguin.html)
 - [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
+- [\$wagify](http://swagify.net/): Generates SICK 2003 usernames like [MTNDEW]xxX_m@ng0PdF_Xxx.
 - [terminal.sexy](terminal.sexy): Design your terminal colorscheme
+- [Text faces](https://textfac.es/): Click-to-copy unicode faces like these guys: ( ͡° ͜ʖ ͡°) ¯\_(ツ)_/¯
 - [Undocumented Admin](https://undocumentedadm.in/)
 
 ## Guides
@@ -293,6 +303,7 @@ This README holds links to everything I've found.
 
 - [About Cybersecurity Management and Expectations](https://tisiphone.net/2020/10/27/about-cybersecurity-management-and-expectations/)
 - [Asynchronous Communication](https://doist.com/blog/asynchronous-communication/): The Real Reason Remote Workers Are More Productive
+- [Being Glue](https://noidea.dog/glue)
 - [Boilerplate Advice](https://www.ribbonfarm.com/2021/01/06/boilerplate-advice/)
 - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 - [Consent decision making](https://help.loomio.org/en/guides/consent_process/)
@@ -316,28 +327,35 @@ This README holds links to everything I've found.
 ## Motivational
 
 - [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
+  - Pair with [Giving What We Can](https://www.givingwhatwecan.org/) and/or [GiveWell](https://www.givewell.org/) to maximize the impact of your life
 - [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [Advice to (Cybersecurity) Undergrads](https://wkr.io/post/2017/10/advice-to-undergrads/)
 - [Advice to a student poet from E.E. Cummings](https://cummingsatsilverlake.com/2015/06/22/advice-to-a-student-poet-from-e-e-cummings/)
 
-> And so my advice to all young people... is: do something easy, like learning how to blow up the world — unless you're not only willing, but glad, to feel and work and fight till you die.
+  > And so my advice to all young people... is: do something easy, like learning how to blow up the world — unless you're not only willing, but glad, to feel and work and fight till you die.
 
 - [Build Impossible Programs](https://jvns.ca/blog/2018/09/18/build-impossible-programs/)
 - [Codex Atlanticus](http://codex-atlanticus.it/)
 - [Death To Bullshit](https://deathtobullshit.com/)
 - [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo)
+- [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
 - [Fast Running](https://drawinglinks.substack.com/p/fast-running)
 
-> But after a certain point, the expectations become the anchor, not the engine.
+  > But after a certain point, the expectations become the anchor, not the engine.
 
 - [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
 - [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 - [Infosec Income Questionnaire (Responses)](https://docs.google.com/spreadsheets/d/19SDu4bjcLYFOr0fw3UGh-KeJp6IU1ApchVaTzZqhBuc/)
 - [Levels.fyi](https://www.levels.fyi/): Compare career levels across companies
+- [The Makers of Things](https://randsinrepose.com/archives/the-makers-of-things/)
+- [The Matriculant Theory of Value](https://economistwritingeveryday.com/2021/02/01/the-matriculant-theory-of-value/)
+
+  > I’m sorry to report that the market doesn’t care about your degrees, it cares about what you can produce and the value the market places on that product.
+
+  - Pair with [Dolly Parton and the Danger of Doing What You Love](https://economistwritingeveryday.com/2021/03/01/dolly-parton-and-the-danger-of-doing-what-you-love/)
+
 - [Model, document and share](https://lethain.com/model-document-share/)
 - [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
-- [The Easy Way to Learn DFIR](https://brettshavers.com/brett-s-blog/entry/the-easy-way-to-learn-dfir)
-- [The Makers of Things](https://randsinrepose.com/archives/the-makers-of-things/)
 - [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois)
 - [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
 - [We've built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
@@ -385,8 +403,10 @@ This README holds links to everything I've found.
 - [OSINT Framework](https://osintframework.com/)
 - [regular expressions 101](https://regex101.com/)
 - [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
+- [a simple DNS lookup tool](https://dns-lookup.jvns.ca/trace.html)
 - [SSL Labs](https://www.ssllabs.com/): test https configuration
 - [tilde.town](https://tilde.town/): a computer meant for sharing
+- [verylegit.link](https://verylegit.link/): A link shortener that makes the link look really dodgy.
 - [WebPageTest](http://webpagetest.org): website performance metrics
 - [What Does My Site Cost?](https://whatdoesmysitecost.com/): Find out how much it costs for someone to use your site on mobile networks around the world
 - [Wigle.net](https://wigle.net/): All the networks. Found by Everyone.
@@ -396,8 +416,9 @@ This README holds links to everything I've found.
 - [DFIR Review](http://dfrws.org/dfir-review)
 - [pfSense Best Practices](https://www.netgate.com/resources/technical-papers/pfsense-best-practices-part-1.html)
 
-## Personal Security and Privacy
+## Personal Privacy and Security
 
+- [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List/)
 - [Device and Account Security Checklist 2.0](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
 - [Extreme Privacy: What It Takes to Disappear in America](https://inteltechniques.com/data/workbook.pdf)
 - [How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954): A step-by-step guide to finding and removing your personal information from the internet
@@ -459,6 +480,7 @@ This README holds links to everything I've found.
 - [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
 - [Operation Secretum Praesidium](https://gitlab.com/stayfrostyx/opsecretumpraesidium)
 - [OSCP Exam Report Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
+- [Pandas cookbook](https://github.com/jvns/pandas-cookbook)
 - [Powershell & Python](https://github.com/MSAdministrator/powershell-python-comparison-presentation): A side-by-side comparison
 - [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
 - [pwndra](https://github.com/0xb0bb/pwndra): A collection of pwn/CTF related utilities for Ghidra
@@ -479,6 +501,7 @@ This README holds links to everything I've found.
 
 ## Software
 
+- [APT-Hunter](https://github.com/ahmedkhlief/APT-Hunter)
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon): multi-threaded network reconnaissance tool which performs automated enumeration of services
 - [Andriller](https://github.com/den4uk/andriller): collection of forensic tools for smartphones
 - [axiom](https://github.com/pry0cc/axiom): dynamic infrastructure setup for bug bounty and pentesting
@@ -491,9 +514,11 @@ This README holds links to everything I've found.
 - [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
 - [netsniff-ng](http://netsniff-ng.org/): Swiss army knife for your daily Linux network plumbing
 - [Passer](https://www.activecountermeasures.com/passer-a-passive-sniffer-and-inventory-tool/)
+- [PenTesters Framework](https://github.com/trustedsec/ptf)
 - [PingCastle](https://www.pingcastle.com/): Get Active Directory Security at 80% in 20% of the time
 - [Princeton IoT Inspector](https://iot-inspector.princeton.edu/)
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng): Web reconnaissance framework
+- [retoolkit](https://github.com/mentebinaria/retoolkit): Reverse Engineer's Toolkit
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 - [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 - [Shodan snippets](https://snippets.shodan.io/)
