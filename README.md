@@ -173,6 +173,7 @@ This README holds links to everything I've found.
 
 ## Communities (Discord, Mastodon, RocketChat, Slack, etc)
 
+- [The Dev's Guild](https://thedevsguild.com/)
 - [OSInt.team](https://osint.team/home)
 
 ## Conferences
@@ -243,7 +244,9 @@ This README holds links to everything I've found.
 
 - [curl exercises](https://jvns.ca/blog/2019/08/27/curl-exercises/)
 - [git exercises](https://jvns.ca/blog/2019/08/30/git-exercises--navigate-a-repository/): navigate a repository
+- [malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
 - [PentesterLab: Introduction to code review](https://pentesterlab.com/exercises/codereview/course)
+- [PostgreSQL Exercises](https://pgexercises.com/)
 - [questions from wizardzines](https://questions.wizardzines.com/)
 
 ## Fun
