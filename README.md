@@ -73,6 +73,7 @@ This README holds links to everything I've found.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 - [Building Virtual Machine Labs](https://leanpub.com/avatar): A Hands-On Guide
 - [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
+- [Connecting Discrete Mathematics and Computer Science](https://cs.carleton.edu/faculty/dln/book/)
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
