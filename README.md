@@ -389,8 +389,9 @@ This README holds links to everything I've found.
 - [dark.fail](dark.fail): Is a darknet site online?
 - [diagrams.net](https://www.diagrams.net/): open source, online, desktop and container deployable diagramming software
 - [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
-- [Excalidraw](https://excalidraw.com/): Virtual whiteboard for sketching hand-drawn like diagram
 - [emailrep.io](https://emailrep.io): Simple Email Reputation
+- [Excalidraw](https://excalidraw.com/): Virtual whiteboard for sketching hand-drawn like diagram
+- [explainshell.com](https://explainshell.com/) - match command-line arguments to their help text
 - [file.io](https://www.file.io/): ephemeral file sharing
 - [GreyNoise Visualizer](https://viz.greynoise.io/)
 - [';--have i been pwned?](https://haveibeenpwned.com/): check your email addresses and passwords
