@@ -76,6 +76,8 @@ This README holds links to everything I've found.
 - [Connecting Discrete Mathematics and Computer Science](https://cs.carleton.edu/faculty/dln/book/)
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+- [Library Athena](https://www.libraryathena.com/): Read free books in the public domain
+- [LibriVox](https://librivox.org/): Free public domain audiobooks
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Principles of System Administration](https://www.netmeister.org/book/principles-of-system-administration.pdf)
 - [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.com/posts/programming-books-you-wish-you-read-earlier/)
@@ -223,6 +225,7 @@ This README holds links to everything I've found.
 - [The Recurse Center](https://www.recurse.com/)
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
 - [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0)
+- [The Rise and Fall of Civilizations: A Reader Course](https://scholars-stage.org/the-rise-and-fall-of-civilizations-a-reader-course/)
 - [UW CSE341](https://courses.cs.washington.edu/courses/cse341/19sp/): Programming Languages, Spring 2019
 
 ## Doctrine, Ethics, Law, and Policy
@@ -255,7 +258,7 @@ This README holds links to everything I've found.
 - [1997 Crayola Internet Colors](https://twitter.com/DavidM2000AD/status/886515653368315904)
 - [Bach's prelude in C major from WTC book I, written in sed](https://github.com/laserbat/bach.sed)
 - [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
-- [🤣⌨️](https://emojityper.com/#emojityoer): Type words, get emoji.
+- [🤣⌨️](https://emojityper.com/): Type words, get emoji.
 - [Fancy Font Generator](https://qwerty.dev/fancy-font-generator/)
 - [Hacker Typer](http://hackertyper.com/)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
@@ -264,7 +267,7 @@ This README holds links to everything I've found.
 - [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
 - [\$wagify](http://swagify.net/): Generates SICK 2003 usernames like [MTNDEW]xxX_m@ng0PdF_Xxx.
 - [terminal.sexy](terminal.sexy): Design your terminal colorscheme
-- [Text faces](https://textfac.es/): Click-to-copy unicode faces like these guys: ( ͡° ͜ʖ ͡°) ¯\_(ツ)_/¯
+- [Text faces](https://textfac.es/): Click-to-copy unicode faces like these guys: ( ͡° ͜ʖ ͡°) ¯\_(ツ)\_/¯
 - [Undocumented Admin](https://undocumentedadm.in/)
 
 ## Guides
@@ -408,6 +411,7 @@ This README holds links to everything I've found.
 - [OSINT Framework](https://osintframework.com/)
 - [regular expressions 101](https://regex101.com/)
 - [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
+- [sha256algorithm.com](https://sha256algorithm.com/)
 - [a simple DNS lookup tool](https://dns-lookup.jvns.ca/trace.html)
 - [SSL Labs](https://www.ssllabs.com/): test https configuration
 - [tilde.town](https://tilde.town/): a computer meant for sharing
@@ -567,6 +571,7 @@ This README holds links to everything I've found.
 - [How HTTPS works](https://howhttps.works/)
 - [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 - [Real Python Tutorials](https://realpython.com/)
+- [A Readable Specification of TLS 1.3](https://www.davidwong.fr/tls13/)
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 - [The Plain Text Project](https://plaintextproject.online/)
