@@ -390,6 +390,7 @@ This README holds links to everything I've found.
 - [CyberChef](https://gchq.github.io/CyberChef/): translate strings
 - [Dangerzone](https://dangerzone.rocks/): Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
 - [dark.fail](dark.fail): Is a darknet site online?
+- [de4js](https://lelinhtinh.github.io/de4js/): JavaScript Deobfuscator and Unpacker
 - [diagrams.net](https://www.diagrams.net/): open source, online, desktop and container deployable diagramming software
 - [DNS Dumpster](https://dnsdumpster.com/): dns recon & research, find & lookup dns records
 - [emailrep.io](https://emailrep.io): Simple Email Reputation
