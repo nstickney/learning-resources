@@ -12,7 +12,7 @@ This README holds links to everything I've found.
 - [Contents of a Physical Pen Tester's Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 - [Cyber Intrusion Services 2018 Incident Response Casebook](https://www.crowdstrike.com/resources/reports/cyber-intrusion-services-casebook-2018/)
 - [DEF CON 28 OpenSOC Blue Team CTF: Lessons and Tips](https://pberba.github.io/security/2020/08/11/defcon-28-blueteam-opensoc-ctf/)
-- [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/)
+- [Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
 - [Day-1 Skills That Cybersecurity Hiring Managers Are Looking For](https://danielmiessler.com/blog/day-1-skills-required-to-land-an-entry-level-cybersecurity-job/)
 - [Defense at Scale](https://www.netmeister.org/blog/defense-at-scale.html)
 - [Docker for Pentesters](https://blog.ropnop.com/docker-for-pentesters/)
