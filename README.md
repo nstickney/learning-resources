@@ -477,6 +477,7 @@ This README holds links to everything I've found.
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
 - [CyberChef Recipies](https://github.com/mattnotmax/cyberchef-recipes)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
+- [GTFOBins](https://gtfobins.github.io): Unix binaries to bypass local security restrictions
 - [Information Security / Hacking for noobs](https://github.com/tkisason/getting-started-in-infosec)
 - [The Hitchhiker's Guide to Online Anonymity](https://github.com/AnonymousPlanet/thgtoa)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
@@ -485,6 +486,8 @@ This README holds links to everything I've found.
   - Includes [Building a Pentest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md) with lots of sources for vulnerable machines
 - [Logging Made Easy](https://github.com/ukncsc/lme)
   - From the [United Kingdom National Cyber Security Center](https://github.com/ukncsc)
+- [LOLBAS](https://lolbas-project.github.io): Living Off The Land Binaries, Scripts, and Libraries
+- [LOTS Project](https://lots-project.com): Living Off Trusted Sites
 - [National Security Agency](https://github.com/NationalSecurityAgency)
   - Also [NSA Cybersecurity](https://github.com/nsacyber)
 - [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
