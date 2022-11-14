@@ -510,13 +510,34 @@ This README holds links to everything I've found.
 
 ### Search Engines
 
+- AlienVault: Threat intelligence
+- BinaryEdge: Threat intelligence
 - [censys.io](https://censys.io/): Find internet-exposed devices
+- Dehashed: View leaked credentials
 - [crt.sh](crt.sh): Certificate Search
+- DNSDumpster
+- Dorksearch: Really fast Google dorking
+- ExploitDB
+- Fofa: Threat intelligence
+- FullHunt
+- GrayHatWarefare: Search public S3 buckets
+- Grep App: Git repos
 - [Greynoise Visualizer](https://viz.greynoise.io/table)
 - [hunter.io](https://hunter.io/): Emails by domain
+- IntelligenceX
+- LeakIX
+- Netlas
+- ONYPHE: Threat intelligence
+- PolySwarm: Scan files and URLs for threats
+- PulseDive: Threat intelligence
+- SearchCode
+- SecurityTrails: DNS data
 - [Shodan](https://shodan.io/): Find internet-exposed devices
 - [Source Code Search Engine](https://publicwww.com/)
 - [sploitus.com](https://sploitus.com/): Exploit search engine
+- URL Scan
+- Vulners
+- WayBackMachine
 - [Wigle](https://wigle.net/): Database of wireless networks
 - [ZoomEye](https://www.zoomeye.org/): [Cybersecurity Search Engine](http://www.pentest.guru/index.php/2016/01/13/zoomeye-the-valid-iot-search-engine-you-never-heard-of/)
 
