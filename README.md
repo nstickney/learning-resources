@@ -214,6 +214,7 @@ This README holds links to everything I've found.
 - [Microsoft Windows Server 2016 Fundamentals](https://www.edx.org/xseries/microsoft-windows-server-2016)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Open Security Training](http://opensecuritytraining.info/)
+- [Open Source Society University](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 - [Portswigger Web Security Academy](https://portswigger.net/web-security)
 - [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
@@ -472,8 +473,10 @@ This README holds links to everything I've found.
 
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/)
 - [Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's ATT&CK framework
 - [Awesome Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam)
+- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
 - [CyberChef Recipies](https://github.com/mattnotmax/cyberchef-recipes)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb): Dictionary of attack patterns and primitives
@@ -495,10 +498,11 @@ This README holds links to everything I've found.
 - [OSCP Exam Report Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
 - [Pandas cookbook](https://github.com/jvns/pandas-cookbook)
 - [Powershell & Python](https://github.com/MSAdministrator/powershell-python-comparison-presentation): A side-by-side comparison
+- [Public APIs](https://github.com/public-apis/public-apis): A collective list of free APIs for use in software and web development
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 - [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
 - [pwndra](https://github.com/0xb0bb/pwndra): A collection of pwn/CTF related utilities for Ghidra
 - [SecLists](https://github.com/danielmiessler/SecLists): Collection of username/password lists
-- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
 ### Search Engines
 
