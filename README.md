@@ -246,7 +246,6 @@ This README holds links to everything I've found.
 - [Vim Kōans](https://sanctum.geek.nz/arabesque/vim-koans/)
 
 ## Exercises
-
 - [curl exercises](https://jvns.ca/blog/2019/08/27/curl-exercises/)
 - [git exercises](https://jvns.ca/blog/2019/08/30/git-exercises--navigate-a-repository/): navigate a repository
 - [malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
@@ -262,9 +261,11 @@ This README holds links to everything I've found.
 - [🤣⌨️](https://emojityper.com/): Type words, get emoji.
 - [Fancy Font Generator](https://qwerty.dev/fancy-font-generator/)
 - [Hacker Typer](http://hackertyper.com/)
+- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
 - [Online color picker for 256 colors terminal](https://michurin.github.io/xterm256-color-picker/)
 - [Penguin Classics Cover Generator](https://nullk.github.io/penguin.html)
+- [Rectangular map-scheme of the observable universe](https://www.pablocarlosbudassi.com/2021/02/atlas-of-universe-is-linear-version-of_15.html)
 - [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
 - [\$wagify](http://swagify.net/): Generates SICK 2003 usernames like [MTNDEW]xxX_m@ng0PdF_Xxx.
 - [terminal.sexy](terminal.sexy): Design your terminal colorscheme
@@ -410,6 +411,7 @@ This README holds links to everything I've found.
 - [Measure](https://web.dev/measure/): See how well your website performs
 - [MilitaryMap](https://www.map.army/): Plan your Mission
 - [Mono-Alphabetic Substitution](https://www.dcode.fr/monoalphabetic-substitution)
+- [Observatory](https://observatory.mozilla.org/): Scan your site
 - [OSINT Framework](https://osintframework.com/)
 - [regular expressions 101](https://regex101.com/)
 - [SecurityHeaders.com](https://securityheaders.com/): test http(s) security headers
@@ -425,6 +427,7 @@ This README holds links to everything I've found.
 ## Papers
 
 - [DFIR Review](http://dfrws.org/dfir-review)
+- [Modelling the Cognitive Work of Cyber Protection Teams](https://cyberdefensereview.army.mil/Portals/6/10_Trent_CDR_V4N1.pdf?ver=2019-04-30-105204-733)
 - [pfSense Best Practices](https://www.netgate.com/resources/technical-papers/pfsense-best-practices-part-1.html)
 
 ## Personal Privacy and Security
@@ -434,6 +437,7 @@ This README holds links to everything I've found.
 - [Extreme Privacy: What It Takes to Disappear in America](https://inteltechniques.com/data/workbook.pdf)
 - [How to Dox Yourself on the Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954): A step-by-step guide to finding and removing your personal information from the internet
 - [How to encrypt your entire life in less than an hour](https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/)
+- [How To Protect Your Data And Remove Personal Information From The Internet For Free](https://joindeleteme.com/help/diy-free-opt-out-guide/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/): A directory of direct links to delete your account from web services
 - [Last visits to your Twitter profile](http://lastvisits.club/)
 - [Opt Out List](https://www.stopdatamining.me/opt-out-list/): Master list of data broker opt-out links
