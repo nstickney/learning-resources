@@ -222,6 +222,7 @@ This README holds links to everything I've found.
 - [Open Security Training](http://opensecuritytraining.info/)
 - [Open Source Society University](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+- [Open Syllabus](https://www.opensyllabus.org/)
 - [Portswigger Web Security Academy](https://portswigger.net/web-security)
 - [PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 - [PowerShell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-0)
@@ -281,11 +282,11 @@ This README holds links to everything I've found.
 
 ## Guides
 
-- [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 - [Automating Red Team Homelabs](https://blog.secureideas.com/2018/09/automating-red-team-homelabs-part-1-kali-automation.html)
 - [Automating the Vim workplace](https://sharats.me/posts/automating-the-vim-workplace/)
 - [[A]ndroid [A]pplication [P]entest [G]uide](https://nightowl131.github.io/AAPG/)
 - [Bare-Metal STM32](https://hackaday.com/2020/11/17/bare-metal-stm32-from-power-up-to-hello-world/): From Power-Up to Hello World
+- [A beginner's guide to network troubleshooting in Linux](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux)
 - [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
 - [Building Free Active Directory Lab in Azure](https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f)
 - [Center for Internet Security](https://www.cisecurity.org/)
@@ -297,8 +298,10 @@ This README holds links to everything I've found.
 - [Ethical OS](https://ethicalos.org)
 - [Ethical Web Design](https://hackers.town/@estoricru/104237914496253521)
 - [Firewall Rule Best Practices](https://docs.netgate.com/pfsense/en/latest/book/firewall/firewall-rule-best-practices.html)
+- [The Git Rebase Handbook](https://www.freecodecamp.org/news/git-rebase-handbook/): A Definitive Guide to Rebasing
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [How DNS Works](https://howdns.works/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The Internet of Shit Guide](https://internetofshit.net/home)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): Scenic Programming Language Tours
 - [Linux Kernel `etc/sysctl.conf` Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
@@ -364,6 +367,7 @@ This README holds links to everything I've found.
 - [Infosec Income Questionnaire (Responses)](https://docs.google.com/spreadsheets/d/19SDu4bjcLYFOr0fw3UGh-KeJp6IU1ApchVaTzZqhBuc/)
 - [Levels.fyi](https://www.levels.fyi/): Compare career levels across companies
 - [The Makers of Things](https://randsinrepose.com/archives/the-makers-of-things/)
+- [The map of the observable Universe](https://mapoftheuniverse.net) from the Milky Way to the edge of what can be seen
 - [The Matriculant Theory of Value](https://economistwritingeveryday.com/2021/02/01/the-matriculant-theory-of-value/)
 
   > I’m sorry to report that the market doesn’t care about your degrees, it cares about what you can produce and the value the market places on that product.
@@ -558,6 +562,7 @@ This README holds links to everything I've found.
 - [dSploit](https://github.com/Androguide/dsploit): An Android network penetration suite
 - [Envizon](https://github.com/evait-security/envizon): The network visualization tool
 - [EvilVM](http://evilvm.ninja/pages/quickstart/)
+- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/): Making FFmpeg Easier
 - [LeakLooker](https://github.com/woj-ciech/LeakLooker): Find open databases with Shodan
 - [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration): Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [Lynis](https://cisofy.com/lynis/): Auditing, system hardening, compliance testing
