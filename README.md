@@ -332,6 +332,7 @@ This README holds links to everything I've found.
 - [The Legal Risks of Security Research](https://www.schneier.com/blog/archives/2020/10/the-legal-risks-of-security-research.html)
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 - [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/)
+- [On Lucidity](https://leber.substack.com/p/on-lucidity)
 - [Paradox of Choice](https://azeria-labs.com/paradox-of-choice/)
 - [Please Learn to Write](https://randsinrepose.com/archives/please-learn-to-write/)
 - [Principles of Technology Leadership](https://invidious.snopyta.org/watch?v=9QMGAtxUlAc) (watch how Bryan Cantrill's elbow bends wayyyyy too far)
@@ -363,6 +364,7 @@ This README holds links to everything I've found.
   > But after a certain point, the expectations become the anchor, not the engine.
 
 - [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
+- [Harry Nyquist](https://en.m.wikipedia.org/wiki/Harry_Nyquist)
 - [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 - [Infosec Income Questionnaire (Responses)](https://docs.google.com/spreadsheets/d/19SDu4bjcLYFOr0fw3UGh-KeJp6IU1ApchVaTzZqhBuc/)
 - [Levels.fyi](https://www.levels.fyi/): Compare career levels across companies
@@ -376,7 +378,10 @@ This README holds links to everything I've found.
 
 - [Model, document and share](https://lethain.com/model-document-share/)
 - [Nobody Cares](https://florentcrivello.com/index.php/2018/05/20/nobody-cares/)
+- A Portrait of [Tenochtitlan](https://tenochtitlan.thomaskole.nl/)
 - [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois)
+- [Seven Secular Sermons](https://sevensecularsermons.org/): Towards a more profoundly satisfying appreciation of reality at large.
+- [Tears in Rain](https://en.wikipedia.org/wiki/Tears_in_rain_monologue)
 - [Tribe of Hackers](https://www.threatcare.com/tribe-of-hackers-free-pdf/)
 - [We've built a towering pile of shite](https://shkspr.mobi/blog/2020/06/weve-built-a-towering-pile-of-shite/)
 - [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
@@ -416,6 +421,7 @@ This README holds links to everything I've found.
 - [Hunchly](https://hunch.ly/)
 - [IM Observatory](https://xmpp.net/): Testing the security of the Jabber/XMPP network since '13.
 - [Let's Encrypt](https://letsencrypt.org/): Free TLS certificates
+- [LibreSpeed](https://librespeed.org/): Speed Test
 - [MailTester.com](http://mailtester.com/): Check validity of an email address
 - [Mail-Tester](https://www.mail-tester.com): Test the spammy-ness of email newsletters
 - [Mamont's open FTP Index](https://www.mmnt.net)
@@ -593,6 +599,7 @@ This README holds links to everything I've found.
 ## Tutorials
 
 - [Awk in 20 minutes](https://ferd.ca/awk-in-20-minutes.html)
+- [Chaining Vulnerabilities to Exploit Post-Based Reflected XSS](https://www.trustedsec.com/blog/chaining-vulnerabilities-to-exploit-post-based-reflected-xss/)
 - [Debugging in Vim](https://www.dannyadam.com/blog/2019/05/debugging-in-vim/)
 - [git rebase in depth](https://git-rebase.io/)
 - [email = git = &lt;3](https://git-send-email.io/)
