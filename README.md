@@ -420,6 +420,7 @@ This README holds links to everything I've found.
 - [JS Bin](https://jsbin.com/): JavaScript learning tool
 - [Hunchly](https://hunch.ly/)
 - [IM Observatory](https://xmpp.net/): Testing the security of the Jabber/XMPP network since '13.
+- [IPLEAK.NET](https://ipleak.net): This is the kind of information that all of the sites you visit, as well as their advertisers and any embedded widget, can see and collect about you.
 - [Let's Encrypt](https://letsencrypt.org/): Free TLS certificates
 - [LibreSpeed](https://librespeed.org/): Speed Test
 - [MailTester.com](http://mailtester.com/): Check validity of an email address
