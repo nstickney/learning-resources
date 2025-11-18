@@ -197,6 +197,7 @@ This README holds links to everything I've found.
 
 - [190 Universities, 600 Free Online Courses](https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57)
 - [9 Free Training Courses to Learn Linux Online](https://itsfoss.com/free-linux-training-courses/)
+- [A Syllabus for Generalists](https://syllabusproject.org/a-syllabus-for-generalists/)
 - [Amazon's Machine Learning University](https://aws.amazon.com/training/learning-paths/machine-learning/)
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/): Python scripting
 - [Brilliant.org](https://brilliant.org): Math and science done right
@@ -210,6 +211,7 @@ This README holds links to everything I've found.
 - [Hopper's Roppers](https://www.hoppersroppers.org/training)
 - [How to learn to code for free at Stanford and make six figures in under 1 year](https://medium.com/the-mission/how-to-learn-to-code-for-free-at-stanford-and-make-six-figures-in-under-1-year-4bf95baf793b)
 - [Immerisve Labs](https://dca.immersivelabs.online/)
+- [Introductions to new subjects by great people](https://www.syllabi.directory/)
 - [Katacoda](https://www.katacoda.com/): Interactive learning platform for software engineers
 - [Learn-C.org](https://www.learn-c.org/)
 - [Learn to Code From Home](https://www.freecodecamp.org/news/coronavirus-academy/): The Coronavirus Quarantine Developer Skill Handbook
@@ -232,8 +234,7 @@ This README holds links to everything I've found.
 - [PwnSchool Project](https://launchpass.com/pwnschoolproject)
 - [Python for Security Professionals](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [The Recurse Center](https://www.recurse.com/)
-- [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
-- [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0)
+- [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0) and [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html#0)
 - [The Rise and Fall of Civilizations: A Reader Course](https://scholars-stage.org/the-rise-and-fall-of-civilizations-a-reader-course/)
 - [UW CSE341](https://courses.cs.washington.edu/courses/cse341/19sp/): Programming Languages, Spring 2019
 
@@ -268,19 +269,24 @@ This README holds links to everything I've found.
 - [Bach's prelude in C major from WTC book I, written in sed](https://github.com/laserbat/bach.sed)
 - [Bacon Ipsum](https://baconipsum.com/): A Meatier Lorem Ipsum Generator
 - [Bartosz Ciechanowski](https://ciechanow.ski/) has *amazing* visualizations
-- [🤣⌨️](https://emojityper.com/): Type words, get emoji.
+- [🤣⌨️](https://emojityper.com/): Type words, get emoji
 - [Fancy Font Generator](https://qwerty.dev/fancy-font-generator/)
 - [Hacker Typer](http://hackertyper.com/)
+- [Iceberger](https://joshdata.me/iceberger.html): Draw an iceberg and see how it will float
+- [Is *my* blue *your* blue?](https://ismy.blue/)
 - [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 - [Neal.fun](https://neal.fun/): Bringing back the weird web!
 - [Online color picker for 256 colors terminal](https://michurin.github.io/xterm256-color-picker/)
+- [Only visit once](https://onlyvisitonce.com/)
 - [Penguin Classics Cover Generator](https://nullk.github.io/penguin.html)
 - [Rectangular map-scheme of the observable universe](https://www.pablocarlosbudassi.com/2021/02/atlas-of-universe-is-linear-version-of_15.html)
 - [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
 - [\$wagify](http://swagify.net/): Generates SICK 2003 usernames like [MTNDEW]xxX_m@ng0PdF_Xxx.
 - [terminal.sexy](terminal.sexy): Design your terminal colorscheme
 - [Text faces](https://textfac.es/): Click-to-copy unicode faces like these guys: ( ͡° ͜ʖ ͡°) ¯\_(ツ)\_/¯
+- [Traffic Cam Photobooth](https://trafficcamphotobooth.com/): Take selfies with surveillance!
 - [Undocumented Admin](https://undocumentedadm.in/)
+- [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
 
 ## Guides
 
@@ -366,6 +372,7 @@ This README holds links to everything I've found.
   > But after a certain point, the expectations become the anchor, not the engine.
 
 - [Fix Like No One's Watching](https://overreacted.io/fix-like-no-ones-watching/)
+- [Gap Map](https://www.gap-map.org/): What's holding back science?
 - [Harry Nyquist](https://en.m.wikipedia.org/wiki/Harry_Nyquist)
 - [In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html)
 - [Infosec Income Questionnaire (Responses)](https://docs.google.com/spreadsheets/d/19SDu4bjcLYFOr0fw3UGh-KeJp6IU1ApchVaTzZqhBuc/)
@@ -391,6 +398,7 @@ This README holds links to everything I've found.
 - [You can't impress developers. So don't try.](https://baus.net/you-cant-impress-developers/)
 - [spaceprob.es](https://spaceprob.es/)
 - [They Write the Right Stuff](https://www.fastcompany.com/28121/they-write-right-stuff)
+- [Underrated ways to change the world](https://www.experimental-history.com/p/underrated-ways-to-change-the-world)
 
 ## Online tools
 
@@ -404,6 +412,7 @@ This README holds links to everything I've found.
 - [Bot Sentinel](https://botsentinel.com/)
 - [Buypass Go SSL](https://www.buypass.com/ssl/products/acme): Free TLS certificates
 - [check-your-website.server-daten-de](https://check-your-website.server-daten.de): Check DNS, Urls + Redirects, Certificates and Content of your Website
+- [CodingFont](https://www.codingfont.com/)
 - [Compiler Explorer](https://godbolt.org/): interact with compilers in the browser
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): check if a CSP serves as strong mitigation against XSS
 - [CVE List](https://cve.mitre.org/): Common Vulnerabilities and Exposures list
@@ -423,6 +432,7 @@ This README holds links to everything I've found.
 - [Hunchly](https://hunch.ly/)
 - [IM Observatory](https://xmpp.net/): Testing the security of the Jabber/XMPP network since '13.
 - [IPLEAK.NET](https://ipleak.net): This is the kind of information that all of the sites you visit, as well as their advertisers and any embedded widget, can see and collect about you.
+- [Legal Lego Angle Finder](https://www.desmos.com/calculator/nq53mrhdv7)
 - [Let's Encrypt](https://letsencrypt.org/): Free TLS certificates
 - [LibreSpeed](https://librespeed.org/): Speed Test
 - [MailTester.com](http://mailtester.com/): Check validity of an email address
@@ -658,6 +668,7 @@ This README holds links to everything I've found.
 - [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Microsoft Powershell](https://www.youtube.com/watch?v=wUnYLfXm81s&list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si)
 - [Radare2 Tutorial](https://www.youtube.com/playlist?list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQe)
+- [The Best Tacit Knowledge Videos on Every Subject](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject)
 - [The Sysinternals tools _make you better at your job_](https://www.youtube.com/watch?v=6DYCAC_beas)
 - [Vim Alphabet](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD)
 - [Vim Un-Alphabet](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
