@@ -75,6 +75,7 @@ This README holds links to everything I've found.
 - [Building Virtual Machine Labs](https://leanpub.com/avatar): A Hands-On Guide
 - [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
 - [Connecting Discrete Mathematics and Computer Science](https://cs.carleton.edu/faculty/dln/book/)
+- [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 - [Library Athena](https://www.libraryathena.com/): Read free books in the public domain
@@ -247,6 +248,7 @@ This README holds links to everything I've found.
 - [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/)
 - [Emperor Sh and the Traveller](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt)
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) and [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+- [Grugbrain.dev](https://grugbrain.dev/)
 - [Rootless Root](http://www.catb.org/~esr/writings/unix-koans/)
 - [The Tao of Programming](http://canonical.org/~kragen/tao-of-programming.html)
 - [The Unix Power Classic](http://vrici.lojban.org/~cowan/upc/)
